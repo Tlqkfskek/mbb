@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="3FdaOPBi" text="焦黑的{ITEMNAME}" />
+    <string id="3JaHZA3Y" text="一大袋{ITEMNAME}" />
+    <string id="4nprSS1a" text="灵活的{ITEMNAME}" />
+    <string id="582QaBL6" text="轻{ITEMNAME}" />
+    <string id="5yVgXqQr" text="破旧{ITEMNAME}" />
+    <string id="6MVH4JVN" text="浆硬过的{ITEMNAME}" />
+    <string id="85WO1MKG" text="精良的{ITEMNAME}" />
+    <string id="8Pd6fLoy" text="碎裂的{ITEMNAME}" />
+    <string id="8Tal0XIj" text="极品{ITEMNAME}" />
+    <string id="ajjSonIo" text="坚韧的{ITEMNAME}" />
+    <string id="ajLElAyS" text="加重的{ITEMNAME}" />
+    <string id="B14fVQHG" text="污损的{ITEMNAME}" />
+    <string id="BA9c7gPb" text="厚{ITEMNAME}" />
+    <string id="bAdxUq7s" text="高品质的{ITEMNAME}" />
+    <string id="br0N6SSH" text="裂开的{ITEMNAME}" />
+    <string id="bWhJwHA1" text="松散的{ITEMNAME}" />
+    <string id="bXYcvUcR" text="破烂的{ITEMNAME}" />
+    <string id="CAP1BUjL" text="加硬{ITEMNAME}" />
+    <string id="CCKZv6GM" text="有缺口的{ITEMNAME}" />
+    <string id="dXjbxaKQ" text="腐烂的{ITEMNAME}" />
+    <string id="eb4miTUB" text="弯曲的{ITEMNAME}" />
+    <string id="fdgcpipH" text="平衡的{ITEMNAME}" />
+    <string id="geUpgQI5" text="瘸腿{ITEMNAME}" />
+    <string id="H30eaZdf" text="重{ITEMNAME}" />
+    <string id="l7QEpVwU" text="生锈的{ITEMNAME}" />
+    <string id="O0EcDd0a" text="磨损的{ITEMNAME}" />
+    <string id="Pbb94NdW" text="撕裂的{ITEMNAME}" />
+    <string id="PobRGG9S" text="凹损的{ITEMNAME}" />
+    <string id="Q5HVyNWJ" text="定制的{ITEMNAME}" />
+    <string id="rpUIBrOu" text="敏捷的{ITEMNAME}" />
+    <string id="RwBOv1Mz" text="粗糙的{ITEMNAME}" />
+    <string id="SbNbqhOX" text="破裂的{ITEMNAME}" />
+    <string id="TePk4BSJ" text="有凹陷的{ITEMNAME}" />
+    <string id="w3jn7Ahz" text="豪华的{ITEMNAME}" />
+    <string id="WbaIorOh" text="调整后的{ITEMNAME}" />
+    <string id="WK5y3PyJ" text="迅捷的{ITEMNAME}" />
+    <string id="xeb1b5PQ" text="优质{ITEMNAME}" />
+    <string id="zbs4c6sG" text="加强{ITEMNAME}" />
+  </strings>
+</base>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="2wclahIJ" text="投掷" />
+    <string id="4kvKQuXM" text="兽皮" />
+    <string id="5rj7xQE4" text="弓" />
+    <string id="7HvtT8bm" text="熟铁" />
+    <string id="81YLbLok" text="人生黑暗面的经验。你知道警卫什么时候想要贿赂，你知道如何恐吓别人，自己能逃过什么又逃不过什么罪名。" />
+    <string id="8w0aaDbn" text="铁" />
+    <string id="97EmbcHQ" text="激励的能力。你可以让个体充满自信，激发更大的群体的热情和勇气。" />
+    <string id="abxndmIh" text="社交" />
+    <string id="Aj3zqQq4" text="不可用" />
+    <string id="azjMBa86" text="优质钢" />
+    <string id="Bn7IsMpu" text="智力" />
+    <string id="bVD9j0wI" text="身体的健康、速度和平衡。" />
+    <string id="d2ApwXJr" text="耐力" />
+    <string id="EGeY1gfs" text="魅力" />
+    <string id="eoLbkhsY" text="能熟练使用平均长度的双手武器作战，比如较大的斧头和剑。" />
+    <string id="ExjMoUiT" text="硬木" />
+    <string id="FLf5J3su" text="熟悉弓并具有有效使用它射击的身体条件。" />
+    <string id="FQOFDrAu" text="对部队在战斗中表现的判断。这让你可以很好地预测非正统的策略什么时候会奏效，什么时候不会。" />
+    <string id="GmcgoiGy" text="交易" />
+    <string id="gOpodlt1" text="生铁" />
+    <string id="H9Zamrao" text="控制马的能力，在马突然或意外移动时保持平衡的能力，以及马的一般知识，包括它们的照料和繁殖。" />
+    <string id="haax8kMa" text="长杆武器" />
+    <string id="haV3nLYA" text="操作和维护弩的知识。" />
+    <string id="hbaMnpVR" text="了解如何制造能够承受强大力量而不崩溃的东西。对于制造用来建造或拆除建筑物的器械来说都很有用。" />
+    <string id="HsLfmEmb" text="统御" />
+    <string id="HuXafdmR" text="控制力" />
+    <string id="igg5sEh3" text="了解如何止血，如何固定骨折，如何移除嵌入的武器和清洁伤口以防止感染，以及如何使用药膏来减轻疼痛和缓解炎症。" />
+    <string id="iKmXX7i3" text="能熟练使用单手和双手的矛、枪、杖和其他长杆武器。" />
+    <string id="iQadPYNe" text="木炭" />
+    <string id="Itv3fgJm" text="谷物" />
+    <string id="jJ9sLOLb" text="活力代表着敏捷有力地移动的能力。对近战很重要。" />
+    <string id="JKH59XNp" text="医术" />
+    <string id="JZM1mQvb" text="狡诈" />
+    <string id="K8rCOQUZ" text="耐力是指长时间进行体力活动的能力。" />
+    <string id="kmBxaJZd" text="关于如何在野外求生的知识。你可以追踪轨迹，发现灌木丛中的移动，还能通过矛尖上的闪光或尘埃云团发现山谷对面的敌人。" />
+    <string id="kvOavzcs" text="耐力" />
+    <string id="Kw6BkhIf" text="铁矿石" />
+    <string id="LJ6Krlbr" text="侦察" />
+    <string id="LmwhFv5p" text="肉" />
+    <string id="lsJMCkZy" text="熟悉市场上最常见的商品和它们的价格，以及发现有缺陷商品的能力，还能知道你是否被偷斤少两了" />
+    <string id="m8o51fc7" text="战术" />
+    <string id="n3cjEB0X" text="工具" />
+    <string id="NwTpATW5" text="能够准确而有力地投掷投掷物。" />
+    <string id="p9i3zRm9" text="骑术" />
+    <string id="PCZ23wvW" text="工程学" />
+    <string id="PHoxdReD" text="社交" />
+    <string id="PiHpR4QL" text="单手" />
+    <string id="qwEJSBaH" text="如何使定居点繁荣的知识。这有助于你管理产业或城镇。" />
+    <string id="skZS2UlW" text="跑动" />
+    <string id="sOrJoxiC" text="智力" />
+    <string id="t78atYqH" text="双手" />
+    <string id="TeUtEGV0" text="智力代表阅读和理论学习的能力。" />
+    <string id="tH6Ooj0P" text="狡诈" />
+    <string id="TTWL7RLe" text="弩" />
+    <string id="UfuLKuaI" text="钢铁" />
+    <string id="Uz1HHeKg" text="制造的随机武器" />
+    <string id="uZhHh7pm" text="已制造{CURR_TEMPLATE_NAME}" />
+    <string id="V0ZMJ0PX" text="流氓习气" />
+    <string id="VajIVjkc" text="使一个人喜欢并信任你的能力。你能很好地猜测人们的动机以及他们会如何回应。" />
+    <string id="Ve8xoa3i" text="活力" />
+    <string id="vLVAfcta" text="大马士革钢" />
+    <string id="vx0OCvaj" text="控制力表示使用力量时减小精度损失的能力。使用远程武器是有必要的。" />
+    <string id="XMDTt96y" text="社交是理解人们的动机并影响他们的能力。" />
+    <string id="xs0MpdCM" text="锻造" />
+    <string id="xWbkjccP" text="了解如何锻造金属，如何将刀柄与刀刃相匹配，如何转动杆子，如何缝合鳞片，以及其他在武器和盔甲装配中有用的技能" />
+    <string id="yEkSSqIm" text="熟练使用单手武器进行战斗，可以配盾也可以不配。" />
+    <string id="Ymw2PKBo" text="管理学" />
+    <string id="YO5LUfiO" text="狡诈是一种预测别人将要做什么的能力，以及智胜他们的计划的能力。" />
+    <string id="YWkdD7Ki" text="活力" />
+    <string id="zfRqM4mr" text="控制力" />
+  </strings>
+</base>

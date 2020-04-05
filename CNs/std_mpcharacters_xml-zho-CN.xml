@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="09gOOa0h" text="游击射手" />
+    <string id="1sJcKkVP" text="卫士 " />
+    <string id="4C4WiTb2" text="瓦良格" />
+    <string id="6aqDcMPr" text="最大护甲（55）" />
+    <string id="8qg72H8Z" text="部落战士" />
+    <string id="afhXdjBU" text="游牧民" />
+    <string id="bHx8jaeI" text="战士" />
+    <string id="CAYZDsAj" text="军团步兵" />
+    <string id="cbnvgVhH" text="掠袭者" />
+    <string id="Cp7dI87a" text="先锋骑兵" />
+    <string id="DMxJJWxt" text="征召兵" />
+    <string id="Dq1sCO1y" text="劲弩手" />
+    <string id="eFWJjaBC" text="多人游戏角色" />
+    <string id="eIk6jaOG" text="持矛步兵" />
+    <string id="eM1qFKNs" text="神射手" />
+    <string id="eU0uANvZ" text="骑射手" />
+    <string id="fS5BIf3J" text="誓约者" />
+    <string id="ft6QaIms" text="具装骑兵" />
+    <string id="g9VIbA9s" text="军士" />
+    <string id="gLlheMwd" text="征召农民" />
+    <string id="gytrdYMU" text="马穆鲁克" />
+    <string id="hchDYAKL" text="枪骑兵" />
+    <string id="HCzbW0hE" text="部落勇士" />
+    <string id="ieiqOaZp" text="弓箭手" />
+    <string id="ixqTFMVA" text="骑马勇士" />
+    <string id="j5I7tYSd" text="费奥纳勇士" />
+    <string id="k1Xr4rKn" text="亲卫骑兵" />
+    <string id="lar4lfKR" text="可汗亲卫" />
+    <string id="LLKreyq7" text="狼战士" />
+    <string id="LNfQk4MM" text="最小护甲（0）" />
+    <string id="My0a4Miq" text="斧枪手" />
+    <string id="naBbiK9v" text="杂牌军" />
+    <string id="NJRUb0C1" text="禁卫射手" />
+    <string id="nt7wUxIa" text="贝都因骑手" />
+    <string id="PoY2Vh7K" text="草原弓" />
+    <string id="q1tbZIR9" text="高级护甲(37)" />
+    <string id="rdIGpLLh" text="轻骑兵" />
+    <string id="RjjIbn4V" text="资深射手" />
+    <string id="RssJTUpL" text="狂战士" />
+    <string id="s9oED1IR" text="游击兵" />
+    <string id="Tm3CY9tC" text="低级护甲(12)" />
+    <string id="TNQaD5p2" text="民兵弓箭手" />
+    <string id="WtEoXblx" text="骑士" />
+    <string id="XeXJAB6a" text="双刃枪兵" />
+    <string id="xnDWqYKW" text="猎人" />
+    <string id="yDiWi6SO" text="野蛮人" />
+    <string id="ZKdiaaFo" text="土匪" />
+  </strings>
+</base>

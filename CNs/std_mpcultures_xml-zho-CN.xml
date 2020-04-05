@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="0B27RrYJ" text="巴旦尼亚" />
+    <string id="1sbJQR4H" text="劫匪" />
+    <string id="3PzgpFGq" text="中立" />
+    <string id="FjwRsf1C" text="瓦兰迪亚" />
+    <string id="kiOst6DH" text="帝国" />
+    <string id="NaNMRPv4" text="阿塞莱" />
+    <string id="PjO7oY16" text="斯特吉亚" />
+    <string id="sZLd6VHi" text="库赛特" />
+  </strings>
+</base>

@@ -1,0 +1,1611 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="02c5bQSM" text="丢弃" />
+    <string id="02E0oSJm" text="犯规！你的对手在比武场外进行了搏斗。{?OPPONENT_GENDER}他{?}她{\?} 被取消了资格！" />
+    <string id="03mPaWum" text="王国" />
+    <string id="04GuLxE1" text="你不能解散自己的部队" />
+    <string id="082FNWAD" text="特性" />
+    <string id="08aYzc2F" text="首领" />
+    <string id="09ooh9I3" text="棋子向对手的大本营方格移动。在到达最后一格之后，它们会朝着自己的大本营方格返回。沿途可以俘虏敌方棋子。" />
+    <string id="0DiBS84d" text="仁慈的" />
+    <string id="0GZ19XHb" text="挽具" />
+    <string id="0hCHIcVk" text="骑乘散兵" />
+    <string id="0IjUokET" text="多少？多少钱？快点。[ib:hip][rb:trivial]" />
+    <string id="0j9JnMNB" text="获得{ITEM_NAME}。" />
+    <string id="0JyRvjSF" text="我们的计划是建起一道防线。" />
+    <string id="0mDkVTWn" text="角色" />
+    <string id="0oGz5rVx" text="荣誉" />
+    <string id="0qCbsOif" text="手枪" />
+    <string id="0RkO7oHP" text="队长" />
+    <string id="0V4jIIju" text="移动至{SETTLEMENT_NAME}去围攻" />
+    <string id="0zz1iDMY" text="一位酋长" />
+    <string id="11aiaODt" text="足胫" />
+    <string id="13q8IRfZ" text="我的姐妹{REFERING_HERO.LINK}" />
+    <string id="1AcoIQVl" text="你已经到达了{SETTLEMENT}，可以开始袭击。一些当地居民组织起来对你进行抵抗。袭击这个村庄的行为，将被视为向{KINGDOM}宣战。" />
+    <string id="1asbVsat" text="用你自己的棋子从两边包夹对方棋子就可以俘虏它。{newline}也可以通过把对方棋子夹在你的棋子与中心方格之间来俘虏它。这对双方都适用。" />
+    <string id="1Bm1Wk1v" text="步兵" />
+    <string id="1BSSOa8a" text="终极盔甲" />
+    <string id="1cd6u0qn" text="出城迎敌！" />
+    <string id="1CPdu9K0" text="石头" />
+    <string id="1dLZLQsY" text="捐赠士兵{newline}你将无法撤销此操作。" />
+    <string id="1E6hFc0r" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}阻挡敌军迂回至我们后方。" />
+    <string id="1HPITLca" text="俘虏人数超过上限" />
+    <string id="1jqxlEkT" text="香料" />
+    <string id="1KcIeYe2" text="你需要和角色在同一个地点才能和他们交谈" />
+    <string id="1klXxZFS" text="我是{TOWNS}的女士。" />
+    <string id="1Llb4gGw" text="完成" />
+    <string id="1MStGeRa" text="击败对手数：{BEATEN_OPPONENT_COUNT}" />
+    <string id="1NbY2O5q" text="锁定" />
+    <string id="1o1TyPib" text="额外同伴限制" />
+    <string id="1oeak0OC" text="锻造" />
+    <string id="1PwQxaOu" text="竞赛准备工作似乎正在进行中。奖品是{ITEM}。" />
+    <string id="1pxLpZ4r" text="计算中：" />
+    <string id="1sJcKkVP" text="守卫" />
+    <string id="1wkANMRC" text="我们的计划是设法守住这条狭窄的通道。" />
+    <string id="1XVvU23F" text="无法将剪贴板的文字作为主按键！" />
+    <string id="1Zq8mzzJ" text="那好吧。让咱们看看是什么猎物掉进陷阱了？" />
+    <string id="22a9fyiQ" text="父亲" />
+    <string id="22FUKSQb" text="通过使用此技能获得{REQUIRED_XP_FOR_NEXT_LEVEL}经验值来使其升级。" />
+    <string id="24L5DoQt" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}与{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?} 坚守要地。" />
+    <string id="25MeMNbP" text="右" />
+    <string id="275LD0Gh" text="店员" />
+    <string id="29bsCzkn" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}与{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?} 撤退至安全处。" />
+    <string id="2a33tk2f" text="每日项目" />
+    <string id="2Af5HRJU" text="村庄要人" />
+    <string id="2awf1tei" text="税收" />
+    <string id="2aXJEgag" text="力量：{ARMY_STRENGTH}" />
+    <string id="2CfPklXG" text="军团名称" />
+    <string id="2CgZVkDj" text="一位执政官" />
+    <string id="2FWBCCw0" text="姐妹" />
+    <string id="2gpFPuZZ" text="残忍" />
+    <string id="2I2uKJlw" text="仁慈" />
+    <string id="2JnLh6F0" text="狡诈" />
+    <string id="2Jr3zWQz" text="马匹和马具" />
+    <string id="2RFda5ph" text="收到{GOLD_AMOUNT}{GOLD_ICON}奖赏。" />
+    <string id="2RIyK1bp" text="武器" />
+    <string id="2Sal30D2" text="+{BONUS_AMOUNT}加成至所有者的影响力" />
+    <string id="2u3dRUlE" text="{SETTLEMENT_NAME} (税收)" />
+    <string id="2W2l9Kym" text="终极领袖特长加成" />
+    <string id="2wclahIJ" text="投掷" />
+    <string id="2WpbTaVJ" text="+{BONUS_AMOUNT}加成至税收" />
+    <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} {?IS_MORE_THAN_ONE_DAY}天{?}天{\?}{\?}{?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} {?IS_MORE_THAN_AN_HOUR}小时{?}小时{\?}{\?}" />
+    <string id="300TAI7u" text="全部出售" />
+    <string id="33ghdWWi" text="其他政策" />
+    <string id="33hHRM8r" text="对手回合" />
+    <string id="3CpNUnVl" text="取消" />
+    <string id="3CsACce8" text="退出" />
+    <string id="3cTKRX1M" text="前所未见" />
+    <string id="3Ds5ARHL" text="商人" />
+    <string id="3E0ZXV7j" text="决定结果" />
+    <string id="3F35l4QF" text="守方可参战士兵数量" />
+    <string id="3fAm8FaM" text="就这样吧...正如我父亲所言，如果出趟远门不杀一个人，那相当于白走了。" />
+    <string id="3FUaZk5A" text="我的女士，" />
+    <string id="3Gb7tKgJ" text="{LEFT}和{RIGHT}" />
+    <string id="3IGjY8RG" text="自由作战" />
+    <string id="3IpiWM7H" text="强盗" />
+    <string id="3KD1KqHp" text="攻城塔（等级2）" />
+    <string id="3l8HsbHK" text="嘿。你做了个明智的选择。回来的时候一定要走这条路啊，这样我们就能再做一次生意。[ib:closed][rb:positive]" />
+    <string id="3o6FDRsq" text="占领的城镇" />
+    <string id="3PzgpFGq" text="中立" />
+    <string id="3qFPyJtB" text="在{SETTLEMENT_NAME}等待" />
+    <string id="3sRdGQou" text="离开" />
+    <string id="3sWa2Hmt" text="我的儿子{REFERING_HERO.LINK}" />
+    <string id="3syV6ymi" text="直率" />
+    <string id="3tJq5QyQ" text="{HEALTHY_NUM}+{WOUNDED_NUM}w" />
+    <string id="3TXGG01D" text="你很有眼光，{?PLAYER.GENDER}夫人{?}先生{\?}。我的小伙子们知道该如何信守诺言，赚到自己的钱。[rb:very_positive]" />
+    <string id="3uR8wLko" text="我们的君主{REFERING_HERO.LINK}" />
+    <string id="3V0bvyLC" text="{STR1}{STR2}" />
+    <string id="3vT6TQmF" text="{PLAYER.LINK}，你在{SIDE_STRING}{CLASS_NAME}。" />
+    <string id="3wS4uOvU" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}正在后方游击。" />
+    <string id="3xeuA9VP" text="+{TROOP_AMOUNT}支部队{?ISPLURAL}{?} {\?}至定居点" />
+    <string id="3xIv2cP9" text="守住高地" />
+    <string id="3XsOeE2v" text="你将{?PAY_OR_GET}获得{?}支付{\?} {TRADE_AMOUNT}{GOLD_ICON}" />
+    <string id="3ZRTekjS" text="手套" />
+    <string id="45kZUyjh" text="橄榄" />
+    <string id="4AQmS4iA" text="+{BONUS_AMOUNT}加成至驻军数量" />
+    <string id="4bq2mUf1" text="可以建立王国" />
+    <string id="4BQaqqzg" text="治安度：" />
+    <string id="4cU98rkg" text="熔炼" />
+    <string id="4gOGGbeQ" text="自定义战斗" />
+    <string id="4H1nDlBO" text="每周工资" />
+    <string id="4Hdcxk0a" text="好斗的" />
+    <string id="4IuXGSdc" text="城墙耐久度" />
+    <string id="4JFfP1lt" text="平民装备" />
+    <string id="4jLW7hag" text="开除出军团" />
+    <string id="4kKxsVzZ" text="你在{TOWN}的{ALLEY_NAME}巷子被占领了。" />
+    <string id="4kvKQuXM" text="兽皮" />
+    <string id="4KXvyxrK" text="附属地点" />
+    <string id="4l3BLxBC" text="从攻城塔射击" />
+    <string id="4ml9Bx6i" text="多人游戏特长" />
+    <string id="4mMXsVGb" text="酒馆赌徒" />
+    <string id="4nv6LzDp" text="滑膛枪" />
+    <string id="4okzoXIw" text="同伴" />
+    <string id="4ol7MhA5" text="你被敌人困住了。但是你的士兵的状态无法作战。" />
+    <string id="4rRsmX8i" text="好。有时候最好不要竭泽而渔。" />
+    <string id="4Skg9QhO" text="配重投石机" />
+    <string id="4smaJqhw" text="吞并" />
+    <string id="4WD0kJSR" text="啊...你最好别跟我们耍花样。" />
+    <string id="4wYguFLZ" text="解决事件" />
+    <string id="4Y5T7wp1" text="不能将家庭成员踢出家族。" />
+    <string id="4YfjgtO2" text="捐赠士兵" />
+    <string id="59hbrhfY" text="士兵当前经验值" />
+    <string id="59PSpyu8" text="附属地点：{SETTLEMENT_LINK}" />
+    <string id="5b7UhwsO" text="b" />
+    <string id="5bqmaciE" text="军团中的成员{ARMY_MEMBER}" />
+    <string id="5cGXHF1a" text="今天" />
+    <string id="5CYdyMzj" text="剩余" />
+    <string id="5DBDy2si" text="你困住了敌人。" />
+    <string id="5DSafcSC" text="跳棋" />
+    <string id="5eH0lCEO" text="禁用当前教程步骤" />
+    <string id="5H0cDmm1" text="获取总共{SKILL_LEVEL_FOR_LEVEL_UP}技能点以升级此角色。" />
+    <string id="5jVYwNCQ" text="未付薪酬" />
+    <string id="5k4dxUEJ" text="队伍" />
+    <string id="5kS1qjZL" text="关于这个定居点已经有一个悬而未决的问题。" />
+    <string id="5lDYh7wJ" text="你建立起了抵抗对手的屏障，但是剩下的棋子更少。你输了！" />
+    <string id="5QN7SFNW" text="III" />
+    <string id="5rj7xQE4" text="弓" />
+    <string id="5RSfkx7d" text="集结你的军团可能需要一些时间。" />
+    <string id="5sMBbn7y" text="计算中" />
+    <string id="5SQaiYXi" text="犯规！不准攻击对手的马。你被取消资格了！" />
+    <string id="5T7nyzda" text="听到这个我很高兴。杀戮对我们来说也很有必要。" />
+    <string id="5U70lB7k" text="按{KEY}隐藏" />
+    <string id="5WJbtDqp" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}与{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?} 。友军后方进行游击。" />
+    <string id="5WWbQRQ5" text="如果对手无法继续行动（俘虏），该玩家获胜。" />
+    <string id="5X9Sq4T4" text="{NUM}位领主" />
+    <string id="5ZPp8btH" text="接受易货报价！" />
+    <string id="65QqsaKe" text="你站错边了！" />
+    <string id="6b1RXicd" text="改良的攻城槌" />
+    <string id="6bex2HUl" text="虽然看起来大多数人都能勉强度日，但似乎许多人都很生气，而且你无意中听到一些路人抱怨说他们已经忍无可忍了。你感到有人正在谋划着什么。" />
+    <string id="6Bk1YjS4" text="当你试图强行向村民们征收补给时，他们中的一些人组织起来对你进行抵抗。" />
+    <string id="6bx9IhpD" text="升级" />
+    <string id="6e82kCVB" text="低把位长杆武器" />
+    <string id="6GSXsdeX" text="速度" />
+    <string id="6jp724SU" text="敌人" />
+    <string id="6Jx6qbZn" text="守卫{?IS_GENERAL_SIDE}{?} {SIDE_STRING}{\?}城墙" />
+    <string id="6nQR7yYF" text="开始" />
+    <string id="6OZycZbc" text="家族中没有可用角色来领导新的队伍。" />
+    <string id="6PLqUB34" text="贵族" />
+    <string id="6pNrNj93" text="城墙" />
+    <string id="6SFktFH3" text="中甲" />
+    <string id="6Xl9F8Oa" text="城镇商店" />
+    <string id="6XYG7bux" text="你准备花费{AMOUNT}{INFLUENCE_ICON}" />
+    <string id="6z2a8bgF" text="&lt;b&gt;弩炮&lt;/b&gt;{NEWLINE}待办弩炮降序。" />
+    <string id="72Rasm5f" text="我们什么都没有——没有银币，没有货物。" />
+    <string id="77aNVVE0" text="声望奖励" />
+    <string id="77SdNt8C" text="对手建立起了对抗你的屏障，而且你剩下的棋子更少。你输了！" />
+    <string id="79cOhac4" text="那就行了回头见吧。一路顺风——我希望能再次见到你。[ib:closed][rb:positive]" />
+    <string id="79ElOr2x" text="马贩子" />
+    <string id="7a3aryUB" text="动物" />
+    <string id="7acrOvmJ" text="远程武器 I" />
+    <string id="7AFlpaem" text="{STR1} {STR2}" />
+    <string id="7AOOQ5iB" text="尽管困难重重，你很少听到抱怨的声音，人们似乎相信他们的统治者能带领他们度过逆境。" />
+    <string id="7chepLLh" text="破坏攻城武器{?IS_GENERAL_SIDE}{?}在{SIDE_STRING} 边{\?}" />
+    <string id="7cMUohRm" text="指挥模拟战役。以弱胜强。为了从遭遇战中脱身而牺牲士兵。" />
+    <string id="7cnb2iEb" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}进行小规模战斗。" />
+    <string id="7EnFh9e5" text="地点：{LOCATION}" />
+    <string id="7EVjgrFW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}零落地进行小规模战斗。" />
+    <string id="7h6cXdW7" text="工程师" />
+    <string id="7hj7Kaoz" text="总收入" />
+    <string id="7IqpjCDY" text="处决一个俘虏会对你的声望产生负面影响，并会降低你与俘虏的阵营/家族之间的关系。{newline}你将无法撤消此操作。{newline}确定要处决这个角色吗?" />
+    <string id="7JpAR59k" text="用于运输货物" />
+    <string id="7llkDelg" text="王国抉择" />
+    <string id="7mRN2br0" text="该编队的指挥权已经交给了{HERO_NAME}。" />
+    <string id="7MWaMaez" text="我们的东西就这些：{ITEM_LIST}。拿走吧，但要饶我们一命。" />
+    <string id="7nNi6vnV" text="英雄很好TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO" />
+    <string id="7oJ9gIeT" text="商人没有足够的钱。" />
+    <string id="7sUhWG0E" text="穿刺伤害： " />
+    <string id="7sZMMYbe" text="小阵营" />
+    <string id="7t1daAel" text="这是错误的决定，朋友。[if:idle_furious][ib:aggressive][rb:very_negative]`" />
+    <string id="7vdgxtwo" text="IV" />
+    <string id="7vrdpDFK" text="&lt;b&gt;投石机&lt;/b&gt;{NEWLINE}通过扭转绳子将石头投掷到一定距离之外。{NEWLINE}对城墙、敌方攻城器械及其操作员同样有效。" />
+    <string id="7WFFCVMa" text="特殊" />
+    <string id="7xFRFV0P" text="形成一个防御圈。" />
+    <string id="7Xynf4IA" text="手甲" />
+    <string id="7zUWqY3O" text="左" />
+    <string id="80hwCw7B" text="叛乱期间民兵人数减少-{BONUS_AMOUNT}%" />
+    <string id="83Yt9rbK" text="攻破" />
+    <string id="87qtKk4K" text="观看回合" />
+    <string id="893hzVCQ" text="&lt;b&gt;火焰投石机&lt;/b&gt;{NEWLINE}投掷装满希腊火的罐子，将投石机本就致命的威力与火焰结合。" />
+    <string id="8apwrVjc" text="额外家族部队" />
+    <string id="8B7V0qdT" text="你战败了！" />
+    <string id="8bSHlWBL" text="这个镇上目前没有竞技大会。" />
+    <string id="8cY08v3s" text="这个村庄的经济程度一般。人们和牲口看上去都健康强壮。村民们都忙于农活。" />
+    <string id="8geYNpC9" text="投射物{THRUST_DAMAGE_TYPE}伤害： " />
+    <string id="8HMyTKF6" text="瓦兰迪亚" />
+    <string id="8Jb61k7G" text="（+{GAIN_AMOUNT} 凝聚力）" />
+    <string id="8kVhiTmu" text="下一级别：" />
+    <string id="8l8xEu64" text="购买并装备" />
+    <string id="8LhfzIQE" text="w" />
+    <string id="8oaVYIlk" text="你在{SETTLEMENT_NAME}外。你无法进入，因为城堡属于敌人。" />
+    <string id="8OkPHu4f" text="否" />
+    <string id="8Rkxc5jE" text="没有食物" />
+    <string id="8UBfIenN" text="普通" />
+    <string id="8ucLajpU" text="单手斧" />
+    <string id="8UFjXbbW" text="{?IS_GENERAL_SIDE}{?}从{SIDE_STRING} 边{\?}袭击侧翼" />
+    <string id="8w0aaDbn" text="铁" />
+    <string id="8XM8CHIm" text="内兄弟" />
+    <string id="8ZZgNNaY" text="{USE_KEY}" />
+    <string id="923438xA" text="很好，{PLAYER.LINK}，很好。你成功击败了不少于{OPPONENT_COUNT}名对手。由于你的勇气，你是民众的宠儿。当然，你赢得了一笔为数{PRIZE}{GOLD_ICON}的奖金。" />
+    <string id="929Lxhde" text="如果放弃军团，你将失去{INFLUENCE_COST}点影响力。" />
+    <string id="92M0Pb5T" text="侦察兵" />
+    <string id="984Ink0j" text="箭矢" />
+    <string id="9aymfBBG" text="获取同伴" />
+    <string id="9B5kxWb8" text="超过了其他部队的士兵人数上限。{newline}士兵会暂时留在部队里，但一段时间后他们很快就会离开该部队。{newline}你确定吗？" />
+    <string id="9Bm06EEJ" text="你听到许多人称赞统治者的智慧，因其促成了这一繁荣景象。" />
+    <string id="9C0J0ZkT" text="在步兵掩护下射击。" />
+    <string id="9dcQ2VZv" text="我们的计划是在我们远程部队周围形成一个防御圈。" />
+    <string id="9ECleB7I" text="为了取胜，与你的对手进行徒步决斗！" />
+    <string id="9EgIraI1" text="活跃政策" />
+    <string id="9esIWdDC" text="那么，恐怕我们得拿你杀一儆百了。不要费力乞求怜悯。[ib:aggressive][rb:very_negative]" />
+    <string id="9FhdRKWu" text="飞刀" />
+    <string id="9gNjg4P0" text="这将不会保存你的游戏并返回主菜单。你确定要退出吗？" />
+    <string id="9iycVtyV" text="学习效率：x {COUNT}" />
+    <string id="9NjDfz5Z" text="({LEFT} / {RIGHT})" />
+    <string id="9PLNQrWw" text="你很少听到抱怨，看来人们对于当权者持有信心。" />
+    <string id="9pwIt4aa" text="蜡" />
+    <string id="9yffPYUl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}冲锋。" />
+    <string id="a0mJ0cVV" text="消耗品" />
+    <string id="A0sT86A3" text="没有选择战争" />
+    <string id="a0YMy8E5" text="升级需要{REQUIRED_ITEM}。" />
+    <string id="a10WGnBr" text="犯规！不准在竞技场外搏斗。你被取消资格了！" />
+    <string id="a15eUf3B" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}与{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}城内与敌军作战。" />
+    <string id="a3hmB91k" text="建造并操作攻城器械。在攻城或者守城战中成功使用攻城武器" />
+    <string id="A3T5z4Mv" text="防守" />
+    <string id="a3uKkLez" text="{LORD.LINK}在{SETTLEMENT_NAME}附近作战" />
+    <string id="a47CpGXN" text="力量等级" />
+    <string id="a5j1v7tM" text="我们听说过那些拒绝加入你们的人的遭遇。我们不想步他们后尘，也不想和你们战斗。从现在开始，我们会听命于你，直到你不再喜欢这样为止。" />
+    <string id="a6D6Ga2F" text="武器攻击范围： " />
+    <string id="A7dcz7Yr" text="近战武器 II" />
+    <string id="a8zwLVKj" text="力量" />
+    <string id="aa5tNRb9" text="暴击成功几率" />
+    <string id="AagJ9cSL" text="我不知道{?ASKED_LORD.GENDER}她{?}他{\?}在哪。" />
+    <string id="aaQtzfjL" text="干得好，{?PLAYER.GENDER}夫人{?}先生{\?}。把钱和酒源源不断地送到我们这来，这样在卡拉迪亚你就不需要害怕任何人了。[rb:very_positive]" />
+    <string id="aayrvLOX" text="你走吧。一路顺风。" />
+    <string id="abbALYlp" text="弩车" />
+    <string id="aBgnQ1MO" text="任命总督" />
+    <string id="abV5bff6" text="你俘虏了一个棋子。" />
+    <string id="aCkzVUCR" text="生命值： " />
+    <string id="aCP5ZBbp" text="关系：" />
+    <string id="ad5oQNIB" text="+{BONUS_AMOUNT}加成至繁荣度" />
+    <string id="aDA9PWFT" text="前进" />
+    <string id="ADJBbfbQ" text="毛发" />
+    <string id="ADJQa8am" text="雇佣兵不能支持其他家族。" />
+    <string id="adtqbbGU" text="与军团领袖的距离" />
+    <string id="aebVkHyA" text="放弃战斗？" />
+    <string id="aeouhelq" text="是" />
+    <string id="af4G3RYV" text=" （战斗）" />
+    <string id="agIbuP9a" text="嘿！你身上的瘀伤可真不轻。但是别担心；每个人都会时不时的被痛打一顿。重要的是振作起来，掸掉身上的灰尘，继续搏斗。这才是冠军该做的。" />
+    <string id="agkgu85j" text="你已经到达了{SETTLEMENT}，可以开始围攻。" />
+    <string id="aGNfjmsz" text="&lt;b&gt;梯子&lt;/b&gt;" />
+    <string id="aGSMGMfn" text="仁慈：" />
+    <string id="agVxUuWK" text="前妯娌" />
+    <string id="agYpWI9u" text="成功几率" />
+    <string id="aH4KnzBu" text="谨慎" />
+    <string id="ahiBhAqU" text="盔甲" />
+    <string id="aHKwty74" text="取消行动" />
+    <string id="ahpal89z" text="{PARTY_LIST_TAG}({COUNT} + {WEAK_COUNT}w / {MAX_COUNT})" />
+    <string id="AI2Spvw0" text="拾起" />
+    <string id="aieN31uq" text="同伴 （{COMPANION_COUNT}/{COMPANION_LIMIT}）" />
+    <string id="AIh1Ik4A" text="卡拉德帝国" />
+    <string id="aIkffnN6" text="角色" />
+    <string id="aiX4b5kS" text="完成的任务" />
+    <string id="AIYWSAyK" text="从贸易中获利。经营商队。" />
+    <string id="aJoNj6JX" text="用双手短武器作战" />
+    <string id="aJQQnshf" text="人口税：" />
+    <string id="aJXhsjmT" text="你好，旅行者。要么你乖乖把东西交出来，要么我们把你的头盖骨扔到沙里喂狼！" />
+    <string id="ajZTZoXQ" text="双手锤" />
+    <string id="AkgIYqHT" text="苏丹娜" />
+    <string id="AkUpgiBl" text="级别 {TIER_LEVEL}" />
+    <string id="alEG3BOa" text="你与{CLAN_LEADER}的关系提升了{MAGNITUDE}点，现在达到了{VALUE}点。" />
+    <string id="alMmQrhK" text="部队士气" />
+    <string id="AmbKQ7LT" text="转移" />
+    <string id="AMhvD9om" text="军团指挥官" />
+    <string id="anHqaNK0" text="王后" />
+    <string id="anrHk7ea" text="{PARTY}在对敌人的进攻中打头阵。你将和你的士兵将一起加入{?ARMY_COMMANDER_GENDER}她{?}他{\?}。" />
+    <string id="aNSAaHk9" text="羊狼棋是羊(白)对狼(黑)的游戏。{newline}狼有四枚棋子，开始时放置在棋盘的四个角上。每个回合都有一只羊被放到棋盘上，一只狼移动或者俘虏羊，直到所有的羊都被放到棋盘上为止。{newline}在所有的羊都被放到棋盘上之后，羊也可以在棋盘上移动了。" />
+    <string id="aOvxxLZ8" text="食物变化" />
+    <string id="ar2Y8Xs9" text="{LEFT}: " />
+    <string id="aR4e8B2A" text="II" />
+    <string id="arHXmqqc" text="一个乞丐" />
+    <string id="arWaVMpe" text="我们必须重拳出击，摧毁他们的攻城器械。" />
+    <string id="asHzEWnG" text="那我们得给你放放血了。" />
+    <string id="aTLrmbVL" text="级别 IV" />
+    <string id="aUNYlvbN" text="你已经到达了{SETTLEMENT}，可以开始袭击。一些当地居民组织起来对你进行抵抗。  " />
+    <string id="AUOio5Tu" text="每日预设值" />
+    <string id="auUJW0WU" text="妯娌" />
+    <string id="AVoWvlue" text="{RANK} （{NUMBER}）" />
+    <string id="AVQUGwTg" text="这个城镇的经济水平一般。" />
+    <string id="awQrcrt2" text="陶器" />
+    <string id="AWW0T6xR" text="每枚棋子可以平行移动，每个回合只能移动一格。{newline}棋子不能被移回上一回合所在的位置。{newline}如果一名玩家无子可用，该玩家可以移除对手的一枚棋子，然后继续移动棋子。" />
+    <string id="Ayrvf5yp" text="击杀" />
+    <string id="b0Mv6mZy" text="夺回城堡位置！" />
+    <string id="b0yJ9JsW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}攻打城墙。" />
+    <string id="b1BiRmgI" text="你正在设置你的攻城营地。你必须等待准备工作结束。" />
+    <string id="B1j4F6i7" text=" {?DAY_IS_PLURAL}天{?}天{\?}" />
+    <string id="b1Ra7gHa" text="远程武器 II" />
+    <string id="b1vtY2yU" text="预期" />
+    <string id="b4lDDcli" text="家族" />
+    <string id="B5J6DbpG" text="剩余食物可维持天数：{REMAINING_DAYS}{newline}{newline}总食物：{TOTAL_FOOD_AMOUNT}{newline}每日消耗：{DAILY_FOOD_CONSUMPTION}" />
+    <string id="b5t34yLX" text="马具" />
+    <string id="b6biU4f1" text="创建新部队" />
+    <string id="B6g1ukB7" text="级别 I" />
+    <string id="b6zBcSp2" text="这个城镇正在蓬勃发展。墙壁、街道和房屋都维护得很好。" />
+    <string id="b778BvfW" text="这个东西比平均价格贵了{PERCENTAGE}%。" />
+    <string id="b7aDfCR9" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}防御。" />
+    <string id="b7bWCXbk" text="现在快跑吧，小绵羊。当心点外面的狼群哦。" />
+    <string id="b7U3Gvuu" text="一些愤怒的村民说，他们最近满足了你的要求。如果你这样继续下去，看起来会有一场仗要打了。" />
+    <string id="BAaS5Dkc" text="应用" />
+    <string id="baHmYsx3" text="双手武器" />
+    <string id="baIUUw1c" text="用你自己的影响力来增加所选家族的影响力" />
+    <string id="BANC61K5" text="上一个角色" />
+    <string id="bB4602W2" text="穿刺{THRUST_DAMAGE_TYPE}伤害： " />
+    <string id="bBXGPgwe" text="我的女儿{REFERING_HERO.LINK}" />
+    <string id="bC5aMfG0" text="村庄" />
+    <string id="bcmlu1ml" text="{?ASKED_LORD.GENDER}她{?}他{\?}是{PRISON_PARTY_LEADER.LINK}的俘虏。" />
+    <string id="BD8Mi02a" text="{ASKED_LORD.LINK}目前正在逃亡。" />
+    <string id="bdFJgWp3" text="守方旗帜" />
+    <string id="Bdg4kSqC" text=" （{NUMBER_OF_MEN}）" />
+    <string id="bdQBpUba" text="你心地真好，没让我们空着手回家。" />
+    <string id="BE1scex6" text="每日工坊利润" />
+    <string id="bF7HmNGQ" text="库赛特汗国" />
+    <string id="bfIEbq8b" text="你可以从左边的列表中选择成员并组建一支军团。最终敲定你的选择，点击&quot;完成&quot;。" />
+    <string id="bFpLKvcS" text="可汗" />
+    <string id="bfQLwMUp" text="家族" />
+    <string id="BfQrnvpC" text="组建军团" />
+    <string id="bfsJfrtk" text="{LEFT}{RIGHT}" />
+    <string id="BftxIurV" text="你需要做出{DECISION_NAME}的决定。" />
+    <string id="bg6x6Hbv" text="头盔" />
+    <string id="Bg83jhCR" text="这个小镇显然正在经历艰难时期。" />
+    <string id="bg8co4he" text="屠杀{newline}你将无法撤销此操作。" />
+    <string id="bgjiFSHZ" text="巴旦尼亚" />
+    <string id="bGyrPe8c" text="产量" />
+    <string id="bh2v8n4K" text="服装" />
+    <string id="BhGlPxqx" text="你只能解散非固定部队" />
+    <string id="bIiBytSB" text="弓箭手" />
+    <string id="bj0Ko5uX" text="卡拉德帝国正日暮西山。甚至早在阿雷尼科斯皇帝遇刺之前，这个曾经统一的王国就已经被政治斗争所撕裂。如今，各个阵营正在公开宣战。然而，卡拉德人坚韧不拔。他们的技术比邻国更先进，他们对工程的精通不仅体现在高架水渠、美丽的建筑和巨大的城墙上。他们同样是围城战的专家。" />
+    <string id="bJ5SzaXp" text="受伤" />
+    <string id="bjxBjKH2" text="我的女士" />
+    <string id="bjzVPXtf" text="求婚" />
+    <string id="BkB9aOhw" text="现在无法访问旗帜窗口！" />
+    <string id="bkysJj7F" text="攻城武器" />
+    <string id="BlidMNGT" text="关系" />
+    <string id="bLWyjOdS" text="胸甲： " />
+    <string id="Bm4yZBWb" text="你在{SETTLEMENT_NAME}的监狱里。" />
+    <string id="bMjtFIba" text="你来的正是时候！{PLAYER.LINK}。向你表达我最深的谢意！" />
+    <string id="BMQ5SHOH" text="马匹装备 I" />
+    <string id="bN8gqxtB" text="结束战斗" />
+    <string id="BNAHlS9P" text="你确定吗？你将无法撤销此操作。" />
+    <string id="bNnQt4jN" text="铁匠" />
+    <string id="bNoCJyi9" text="可敬" />
+    <string id="bO5kjF3G" text="荣誉：" />
+    <string id="BObPGFCw" text="拿取并装备" />
+    <string id="bPCAdgLs" text="选择要领导的编队" />
+    <string id="BPVFAl7J" text="我们的计划是围绕着步兵全力进攻。" />
+    <string id="bPXvukDs" text="移动并俘虏" />
+    <string id="bPzyoTEF" text="你会对自己的答复后悔的。" />
+    <string id="BQDrheU6" text="布匹" />
+    <string id="brQ42NE5" text="如何学习" />
+    <string id="bsabIdYm" text="双手斧" />
+    <string id="BsdOl4He" text="犯规！你的对手击中了你的马。{?OPPONENT_GENDER}他{?}她{\?} 被取消了资格！" />
+    <string id="bTAkmho7" text="升级需要经验值：{XP_AMOUNT}" />
+    <string id="Btglp7Ij" text="你不能驱逐自己的家族。" />
+    <string id="btil6Rdb" text="瞧瞧这是什么？看来山里的仙灵回应了我们的祈祷，保佑我们收获到猎物了。" />
+    <string id="BtnJh0j4" text="交战" />
+    <string id="buQvCDbP" text="移动{SETTLEMENT_NAME}去防御" />
+    <string id="BVaXBAr9" text="掷骰" />
+    <string id="bw9HPIwa" text="敌方援军已到达！" />
+    <string id="bWcpv1ou" text="没有选择定居点" />
+    <string id="bWVG2s2h" text="你只能将旁边有对方棋子的棋子移动到中心格。{newline}每个棋子可以自由沿棋盘外缘移动一格。{newline}中心格上的棋子可以移动到任何可用格上。" />
+    <string id="bWz3rWWq" text="聪明的小混蛋。多少？" />
+    <string id="BX8RG4Dj" text="回应" />
+    <string id="bXS5KHk8" text="你赢了决斗。你展示的力量鼓舞了你的军团。你的部队获得士气。" />
+    <string id="BY5RMAoj" text="你受到来自{ATTACKER_NAME}的{AMOUNT}{DAMAGE_TYPE}伤害（{LOST_HP_PERCENTAGE}% 生命值）。" />
+    <string id="bz7Glmsm" text="技能" />
+    <string id="bZJs2AQX" text="这些是我们的钱：{MONEY}{GOLD_ICON}。这些是我们的商品：{ITEM_LIST}。拿走吧，但要饶我们一命，{?PLAYER.GENDER}夫人{?}先生{\?}。" />
+    <string id="bZOVbBRG" text="当你的技能点提升到一定水平时，将解锁一个或更多的天赋。{newline}{newline}角色页面的按钮上会对你进行提示。{newline}{newline}请点击角色页面按钮来查看更多已解锁的天赋选择。" />
+    <string id="bzrOHiS8" text="人们公开咒骂当局，仿佛他们觉得自己没什么可失去的。" />
+    <string id="C0llOApK" text="{HERO}的军团" />
+    <string id="c1Ag8YJS" text="巴旦尼亚人对昔日的时光依然历历在目，那时茂密的森林蔓延在整个卡拉迪亚大陆的北部，帝国与它的城市尚未侵犯他们的圣地。这些勇猛的战士仍然忠于他们的传统。他们会在作战前在脸上涂上战纹，就连他们的贵族也更偏好步战，并使用致命的大斧和双手剑。" />
+    <string id="c1g7MC9D" text="家族领袖加成" />
+    <string id="c2pdihCB" text="商队" />
+    <string id="c3cdHImi" text="从对方棋子两边包围它来俘虏这枚棋子。如果一枚棋子在两枚对方棋子之间移动，它不会被俘虏。{newline}在前两张图中，白方棋子被黑方棋子俘虏了。后两张图里，没有被俘虏。" />
+    <string id="C3VxZFSy" text="级别 III" />
+    <string id="C4n1rgBC" text="施嘉" />
+    <string id="C4qjBqLO" text="斯特吉亚" />
+    <string id="c6Ei8Fqh" text="{FACTION}的封臣" />
+    <string id="C6n2tZlQ" text="我的盟友{REFERING_HERO.LINK}" />
+    <string id="c7bVbjD7" text="如你所愿。从现在开始，我们为你而战。" />
+    <string id="C9EDof32" text="没有选择军团" />
+    <string id="C9pxqWY8" text="你的单位预期会：{BEHAVIOUR_NAME_BEGIN}{?IS_PLURAL}和{?}{\?}{BEHAVIOUR_NAME_END}{?IS_GENERAL_SIDE}从{SIDE_STRING}{?}{\?}" />
+    <string id="caadBNhn" text="攻城塔（等级3）" />
+    <string id="caFEBWSY" text="你的对手打败了你。你失败了。" />
+    <string id="cAgI2lPn" text="{SETTLEMENT_NAME}的总督" />
+    <string id="caPP57v9" text="移动到保留" />
+    <string id="CaW72yB3" text="总花费" />
+    <string id="cBY2MxY0" text="公主" />
+    <string id="cBZ6OlKW" text="投枪" />
+    <string id="CcAG3D8Q" text="未分配" />
+    <string id="ccUEYdrU" text="加入军团" />
+    <string id="cDjq52h2" text="中士" />
+    <string id="ChmM5tjf" text="平局！" />
+    <string id="cJmI2poS" text="信息" />
+    <string id="cjZqTaHm" text="你没有足够的影响力。" />
+    <string id="CKGavOyA" text="用长矛或者其它长杆武器作战，单双手皆可。" />
+    <string id="cKKYSB0z" text="你失去了{AMOUNT}{GOLD_ICON}。" />
+    <string id="ckPhG1KV" text="绑定村庄" />
+    <string id="CKR7PhRI" text="敌对势力" />
+    <string id="CkwERBcS" text="在友军后方进行游击战。" />
+    <string id="cMrROb6w" text="可用任务" />
+    <string id="CODsu5Ok" text="新战役" />
+    <string id="COhJ2HsU" text="它会在{HOUR}小时内自动解决。" />
+    <string id="CoHPb7DL" text="我们的计划是用骑兵碾碎他们，然后后续攻击扫荡其余的人。" />
+    <string id="cpaUPZ4c" text="穿过这片土地要付过路费，所以如果你不介意，我们就自己从你的钱包里拿我们应得的……" />
+    <string id="cqI6P8fr" text="从城墙上发射" />
+    <string id="cQWCp9F1" text="每日部队工资" />
+    <string id="cr9fxFyS" text="对抗盾牌加成" />
+    <string id="cRMgjRMP" text="很好，很好。我更喜欢直接的交易，而不是事后在你的肚子里翻找，看看你可能藏了什么。" />
+    <string id="CRR7cYhJ" text="当前建造模板" />
+    <string id="cRwZI5o2" text="近期事件" />
+    <string id="CsjtWt1g" text="酒馆店主" />
+    <string id="CthDdsb6" text="胜利者" />
+    <string id="cThSwxbP" text="不能处决非英雄俘虏" />
+    <string id="CXUXk5ai" text="帝国的" />
+    <string id="CXZAakQ3" text="&lt;b&gt;火焰石弩&lt;/b&gt;{NEWLINE}TODO FIRE CATAPULT DESC." />
+    <string id="cyPGadJ6" text="自动部署" />
+    <string id="CyTa1Z5d" text="{TEXT} [{HOTKEY}]" />
+    <string id="CZqZGAVB" text="拒绝讨价还价！" />
+    <string id="D5QlXOV0" text="手失去了整个说服机会。" />
+    <string id="d68pZq4j" text="需求技能等级" />
+    <string id="D7KllIPI" text="事件" />
+    <string id="D7ooUTqV" text="你倒下了！" />
+    <string id="D8wa0m1m" text="m" />
+    <string id="D8Wjbw9K" text="我被俘虏，不久找了个机会逃跑了" />
+    <string id="DaE0N37L" text="要人" />
+    <string id="dbdliaP3" text="我的妻子{REFERING_HERO.LINK}" />
+    <string id="DbHLHwkX" text="熔炼" />
+    <string id="DBU4VaIl" text="强盗阵营" />
+    <string id="dc24lBcV" text="近战武器 IV" />
+    <string id="DdXZHifm" text="提升{ATTRIBUTE_NAME}可以让你更容易学习到绑定的技能，并提高学习上限。" />
+    <string id="depxBZNO" text="领袖技能等级加成：" />
+    <string id="dgaf7Jpb" text="设置" />
+    <string id="di4MlBRx" text="{NUMBER_OF} {ITEM}" />
+    <string id="DItheHi7" text="留在后方作为预备队" />
+    <string id="DIuI1moW" text="帮派领袖" />
+    <string id="dJbaRaAD" text="食物维持天数" />
+    <string id="DJgeYv9X" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}作为预备队移动。" />
+    <string id="DjoYTx2w" text="雇佣兵不能集结军团" />
+    <string id="dKcvwi6V" text="快看哪！你最好拿出点银币来，朋友，否则我和我的伙计们就得把你拆了。" />
+    <string id="DKqLY1aJ" text="装备" />
+    <string id="dKXdN4BL" text="你在领导一支军团" />
+    <string id="dLXZaEI1" text="购买食物" />
+    <string id="DM6luo3c" text="继续" />
+    <string id="dMKyWmJ6" text="你被敌人困住了。" />
+    <string id="dO5tqXT8" text="前配偶" />
+    <string id="DOKG38dF" text="教程已开启" />
+    <string id="dpylFaD1" text="单位" />
+    <string id="DqJG7bvh" text="超出限量" />
+    <string id="dQRdP9eQ" text="遭遇" />
+    <string id="DRaJ7hoz" text="胜利者是" />
+    <string id="Dtcv8XNu" text="&lt;b&gt;攻城塔&lt;/b&gt;{NEWLINE}用于登上城墙。比只有梯子强" />
+    <string id="DtKKtcws" text="注意你部队的速度下降了，因为你带的东西太多了。{newline}你应该减少携带的重量来加速。{newline}你也可以通过招募更多队伍或者购买坐骑来增加部队承载能力。" />
+    <string id="DTRwTvT4" text="骑射战斗" />
+    <string id="DTt1aeSj" text="{?IS_POSITIVE}+{?}-{\?}{ITEM_AMOUNT} {ITEM_TYPE}" />
+    <string id="DTWem4V1" text="这个库存" />
+    <string id="DU9SofaW" text="切" />
+    <string id="DuFg1avZ" text="下一等级：{NEXT_SKILL_POINTS}" />
+    <string id="Duoo5R2P" text="竞技场大师" />
+    <string id="DvecWeGT" text="{YEAR}，冬季{DAY}" />
+    <string id="DvGueBrU" text="亚麻布" />
+    <string id="dxtuFW8b" text="你打了一场漂亮的架。一些招式非常好。当然，有一些失误，但你绝对有潜力。并且你因为击倒{OPPONENT_COUNT}对手而获得{PRIZE}{GOLD_ICON}的奖励。" />
+    <string id="DyarV8i7" text="关于这一政策已经有人提出了一项决定。" />
+    <string id="dyLYsWPf" text="确保存在天赋加成" />
+    <string id="dyY3hkH1" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END}{?IS_PLURAL}正在{?}正在{\?}向{?IS_PLURAL}多种敌军编队{?}一种敌军编队{\?}发起冲锋。" />
+    <string id="Dzntsudy" text="你对{VICTIM_NAME}造成{AMOUNT} {DAMAGE_TYPE} 伤害（{LOST_HP_PERCENTAGE}% 生命值）。" />
+    <string id="E05lmb5n" text="你与{HERO_NAME}将会&lt;a style=&quot;DecreaseStyle&quot;&gt;&lt;b&gt;下降&lt;/b&gt;&lt;/a&gt;" />
+    <string id="E1HbgxyM" text="你可以通过某些东西获得角色点数。TODO:" />
+    <string id="E1OwmQFb" text="返回" />
+    <string id="e1tZ4kEY" text="所有物品" />
+    <string id="e4OPfBqt" text="弃权" />
+    <string id="e54212r1" text="在城镇里，你可以寻求有特殊能力的人帮助自己。{newline}{newline}这些潜在的同伴可以在酒馆里找到。{newline}{newline}现在就去酒馆区寻找一个潜在的同伴吧。" />
+    <string id="E9f8YUbO" text="每当你的总技能点数达到一个目标数值时，你就会获得一个等级。升级可以增加可分配的专精点数。{newline}{newline}如果你有可用的专精点数，人物界面按钮上将出现一个小提示。点击按钮来查看不同的技能，并选择其中一个来增加专精。" />
+    <string id="eAGeVRjI" text="你收到了{GOLD_AMOUNT}{GOLD_ICON}。" />
+    <string id="EAicirVE" text="无畏" />
+    <string id="eaIQXj6O" text="可用属性点：{NUMBER}" />
+    <string id="ealIwlQH" text="防卫{SETTLEMENT_NAME}" />
+    <string id="eavr4x8n" text="每日产量：" />
+    <string id="eb0nLx5E" text="阿塞莱苏丹国" />
+    <string id="EbB9y2zZ" text="宣战" />
+    <string id="eDVvDS1i" text="村民" />
+    <string id="EegxpPka" text="+{BONUS_AMOUNT}加成至锤" />
+    <string id="eEmbb1MR" text="产量" />
+    <string id="EHkzaZBi" text="{SETTLEMENT_NAME}的比赛" />
+    <string id="eIws123Z" text="腿甲" />
+    <string id="ejhFyhyx" text="&lt;b&gt;攻城塔&lt;/b&gt;&lt;br&gt;{NEWLINE}将攻击者带到与墙一样高的地方，拉平和防御者之间的胜率差。" />
+    <string id="eKwhGmbI" text="在该队伍获得{XP_AMOUNT} 经验值后，将有一个额外的队伍可以升级" />
+    <string id="elhSbQfW" text="我的同族{REFERING_HERO.LINK}" />
+    <string id="ELsDFwAD" text="葡萄酒" />
+    <string id="EMCISbYJ" text="战斗装备" />
+    <string id="eMsA4Vk0" text="部队的规模会越来越大。它的当前大小目标是{TARGET_SIZE}" />
+    <string id="eMwbzp49" text="战败……" />
+    <string id="enhza8zr" text="阵营" />
+    <string id="eNQgzubm" text="徒步作战在地图上徒步移动。" />
+    <string id="ENzvOHsA" text="{ASKED_LORD.LINK}正在作战，{?ASKED_LORD.GENDER}她{?}他{\?}目前应该在靠近{SETTLEMENT_NAME}的地方。" />
+    <string id="eob9goyW" text=" 和 " />
+    <string id="eodelMzf" text="女士" />
+    <string id="EOhmOITp" text="跟踪相关任务目标" />
+    <string id="EPGDe5fG" text="只有狼可以俘虏，通过跳过一只羊到达其背后可用方格的方式。俘虏同样要遵守棋盘上的线。" />
+    <string id="eqAc8AOs" text="{LEFT}：" />
+    <string id="es0Y3Bxc" text="加入" />
+    <string id="esxNxipn" text="士气低落的部队" />
+    <string id="eTyaQ1sG" text="载入游戏" />
+    <string id="eu25AFfI" text="现在不能打开物品栏！" />
+    <string id="eufhFrnC" text="{VILLAGE_NAME}的村民" />
+    <string id="EUmwEtap" text="那是一场精彩的战斗，{PLAYER.LINK}。你打倒了{OPPONENT_COUNT}位对手。你的表现当然要配上这样的奖励：{PRIZE}{GOLD_ICON}。不错吧？" />
+    <string id="eURzhtb0" text="聚集在{PARTY_NAME}周围" />
+    <string id="EUzxzL9s" text="头盔： " />
+    <string id="EV0av1mc" text="领袖等级加成" />
+    <string id="EvAriC6s" text="卡拉迪亚的每个角色都有两套装备。角色在遇到麻烦时使用军事装备。你可以通过角色模型上的按钮在它们之间切换。请注意，民用装备不能使用大多数的盔甲和武器，因为民用装备是在角色不适合或被禁止全副武装的情况下使用的。" />
+    <string id="evuR5kwf" text="有传闻说这附近的{ITEM_NAME}比其他城镇卖得便宜。如果你在这里买下一些并把它带到价格更高的{TOWN_NAME}，你也许能获得每个{PRICE_DIFF}{GOLD_ICON}的利润。" />
+    <string id="EvvMNX3A" text="先手方从四枚棋子中选择一枚从棋盘上移除。{newline}然后另一个玩家选择一枚邻接棋子移除。如果先手方的棋子在中央，那么另一个玩家必须移除中央两枚棋子中的一枚。{newline}{newline}游戏现在开始。" />
+    <string id="Ew11a1Tx" text="投石车" />
+    <string id="EWa1R7bv" text="敌人 " />
+    <string id="EWq48MmD" text="{LEFT}: {RIGHT}" />
+    <string id="EWRoIdbA" text="强盗" />
+    <string id="ewUtdIQh" text="s" />
+    <string id="ExjMoUiT" text="硬木" />
+    <string id="ey5OcaGI" text="不能与盾牌一起使用" />
+    <string id="eyMU7X0e" text="你是一名有投票权的领主。统治者将在最后投票，并决定结果。TEMP" />
+    <string id="EZLs7hLL" text="你！站住！把钱交出来。我们可不是在玩游戏。" />
+    <string id="EzrK2tnA" text="你不能在战斗中管理你的军团" />
+    <string id="F4RMyaR5" text="你遇到了{PARTY}。" />
+    <string id="F5UPr9jh" text="全部拿取" />
+    <string id="f6gSyvnC" text="用弓箭射击敌人从远处进行一次高难度射击。" />
+    <string id="f6pjlKdz" text="昨天" />
+    <string id="f7t4saJu" text="价值" />
+    <string id="F8g1TzoX" text="你在{SETTLEMENT_NAME}外。你看到{LORD.LINK}的旗帜在城堡大门上飞扬。" />
+    <string id="Fa16r8MN" text="处决俘虏" />
+    <string id="Fa2nKXxI" text="总督" />
+    <string id="faYiCHXK" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} 与 {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}进入射程范围。" />
+    <string id="FbcC2loc" text="你被打晕了，你的对手获得了胜利！" />
+    <string id="fd35ahzV" text="&lt;b&gt;火弩袍&lt;/b&gt;{NEWLINE}发射尖端浸透焦油的弩箭。{NEWLINE}它们能对敌方攻城器械和木制建筑造成火焰伤害，{NEWLINE}对士兵具有致命威力。" />
+    <string id="FD9abtTo" text="如果你赌100&lt;img src=&quot;Icons\Coin@2x&quot;&gt;赢了，你会得到{NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;Icons\Coin@2x&quot;&gt;" />
+    <string id="fEqd7jXj" text="{EFFECT_NAME}： +{NUM}" />
+    <string id="fEu5S6Bd" text="距离" />
+    <string id="fEXuXAl1" text="军团士气：{ARMY_MORALE}{newline}{ARMY_MORALE_ITEMS}" />
+    <string id="FfVdGZsj" text="+{BONUS_AMOUNT}加成至食物产量" />
+    <string id="Fg9qCGUu" text="葡萄" />
+    <string id="FjRiPhEI" text="溃败部队" />
+    <string id="FkhJz0po" text="位置" />
+    <string id="FLa5OuyK" text="流浪者" />
+    <string id="FLrzc1uk" text="啊，恐怕我们不得不割开你的喉咙——当然只是出于原则。因为你越界了。" />
+    <string id="fMmlUHyz" text="挥砍伤害： " />
+    <string id="fMSYE6Ii" text="违约" />
+    <string id="Fp68NbYO" text="王国" />
+    <string id="fpdXZ0fl" text="招募" />
+    <string id="FpI5JMZq" text="交易已被重置" />
+    <string id="fpP2s7hX" text="+{BONUS_AMOUNT}加成至村庄产量" />
+    <string id="fQAGU9GW" text="慷慨：" />
+    <string id="FqwHAxuM" text="双手长杆武器" />
+    <string id="frBQ9mbP" text="南部帝国" />
+    <string id="FRepQsmO" text="这次锦标赛将是一场赛马比武大赛。" />
+    <string id="frt7AmX0" text="{MAJOR_PARTY_LEADER}的驻地" />
+    <string id="fRu5Y4OT" text="我受伤了，眼看就要死了" />
+    <string id="FRuzuVyO" text="没有选择家族" />
+    <string id="FRZfpryn" text="提出把这个定居点交给别人的建议" />
+    <string id="FS78CuPs" text="与{ATTRIBUTE_NAME}属性相关联的技能包括：" />
+    <string id="FUNm7dHv" text="{FACTION}的贵族" />
+    <string id="FVEvjlis" text="部队人数超过限额" />
+    <string id="FvlyWloX" text="这个村庄正在蓬勃发展。装满粮食的袋子和大车证明了田野的肥沃。" />
+    <string id="FvYhaE3z" text="旗帜" />
+    <string id="fwbD1Jqo" text="购买" />
+    <string id="FwlZRESM" text="+BONUS_AMOUNT}加成至民兵" />
+    <string id="fWwYUOVs" text="我们接受你的报酬。" />
+    <string id="FxoVjLvl" text="盾牌&amp;远程" />
+    <string id="FxPzcyLN" text="{SUPPORTERNAME}正在支持{CANDIDATENAME}" />
+    <string id="FZBqNCvd" text="没人" />
+    <string id="G0AWk1rX" text="梯子" />
+    <string id="g0gDsalr" text="冲动" />
+    <string id="g1KLcfxT" text="这个村庄正在蓬勃发展。人们看起来吃的很饱，生活比较满足。有大量健壮的牲畜来拉犁和驮运庄稼。" />
+    <string id="G4XXubLg" text="一位埃米尔" />
+    <string id="g7zo28KR" text="你遇到了{PARTY}。他们无法对抗你压倒性的力量，他们投降了。" />
+    <string id="g8nrakuu" text="近战武器 I" />
+    <string id="G95mB3b3" text="现在无法访问角色窗口！" />
+    <string id="gA5fByM2" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} 与 {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?} 试图重新夺回 {#IS_LEFT}{#}右方城墙{#}多方城墙{\#}{?IS_MIDDLE}中间城墙{?}{\?}{?IS_RIGHT}左方城墙{?}{\?}。" />
+    <string id="gAX49b7b" text="你建立起了对抗对手的屏障，但是你们剩下的棋子相同。平局！" />
+    <string id="GAzaM1RC" text="可以屠宰获得肉和皮" />
+    <string id="GbbGlcMZ" text="棋子可以垂直或水平移动到任何方格上，但不能跳过其他棋子。{newline}棋子不能移动到或越过中间的方格。一旦国王离开这个方格，它也不能再穿越它。" />
+    <string id="GbWWelfl" text="马匹&amp;马具" />
+    <string id="GD4aQgl7" text="羊" />
+    <string id="gdraqMso" text="你在{SETTLEMENT_NAME}外。你不能进去。" />
+    <string id="GDugjWao" text="这里有{MONEY}{GOLD_ICON}。拿走吧，饶我们一命。" />
+    <string id="gflnRhhe" text="({PRIMARY_ROLE})" />
+    <string id="gfQmYDRq" text="当你试图强行向村民们征收补给时，他们中的一些人组织起来对你进行抵抗。" />
+    <string id="gFtu0j4T" text="箭矢" />
+    <string id="ggMmjk31" text="无效" />
+    <string id="ggpRTQQl" text="部队指挥官" />
+    <string id="ggrqoGnE" text="花费{AMOUNT}" />
+    <string id="ggzCiYkk" text="升级需要{VALUE}{GOLD_ICON}。" />
+    <string id="gHnfFi1s" text="已退役" />
+    <string id="GhVXQrYF" text="升级士兵" />
+    <string id="gj2HD7M3" text="你还有赢的机会。你想放弃吗？" />
+    <string id="gKbGZObs" text="总库存" />
+    <string id="GKO2ogal" text="腐败" />
+    <string id="gKzLAjXr" text="请注意你的军团凝聚力是如何下降到最低点的，而且你的军团很可能会自动解散。{newline}你可以点击军团管理按钮来提高凝聚力。" />
+    <string id="GNkrUdwb" text="非常感谢你的帮助，陌生人。我的名字是{NPC.LINK}。你的名字是？" />
+    <string id="GnWy8WAW" text="忠诚度：" />
+    <string id="gNzXoCrq" text="你走吧，小苍蝇。" />
+    <string id="GopVkA1q" text="罪犯" />
+    <string id="gOSpzTrt" text="站在那儿别动。这是抢劫。[if:idle_furious]" />
+    <string id="gPAkLi7l" text="（{STR}）" />
+    <string id="GPESFoWD" text="弩炮" />
+    <string id="GPW3ku2Y" text="{RULER.NAME}{?RULER.GENDER}公主{?}王子{\?}" />
+    <string id="Gre2v55i" text="权力：{POWER}" />
+    <string id="GRX8NjWI" text="规模" />
+    <string id="gSVaitFE" text="突袭{SETTLEMENT_NAME}" />
+    <string id="gsVtO9A7" text="民兵" />
+    <string id="gT5zJaD7" text="我被敌人打得不省人事" />
+    <string id="gTlW1qOB" text="这个东西比平均价格便宜了{PERCENTAGE}%。" />
+    <string id="GUBcQZ3J" text="俘虏当前服从度" />
+    <string id="gY8kkujq" text="战斗结束！按TAB离开…… " />
+    <string id="gYATKZJp" text="{NUMBER}%" />
+    <string id="GYhHacVk" text="你击中获得1分！" />
+    <string id="gZmQvtxm" text="攻城槌顶" />
+    <string id="h03DZtbc" text="重骑兵" />
+    <string id="H0o13D7a" text="商店" />
+    <string id="H1emUb6k" text="年龄：" />
+    <string id="H4rAiNlf" text="你把{BET_AMOUNT}押在自己身上而且赢了这场战斗。这是你的奖励{REWARD_AMOUNT}{GOLD_ICON}。" />
+    <string id="h55xdL1l" text="舞棋" />
+    <string id="h60wQVVX" text="长枪" />
+    <string id="h6AJXR2e" text="你确定要撤退你的部队吗?" />
+    <string id="H9y9dLao" text="你可以赌注来增加你得到的奖金。每一轮的胜率都不同，你每一次可以下注{MAX_AMOUNT}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; 。" />
+    <string id="haax8kMa" text="长杆武器" />
+    <string id="hAgZBZP8" text="罚没" />
+    <string id="haLX0kbG" text="点击继续" />
+    <string id="hbeUbpEA" text="你确定要取消吗？" />
+    <string id="HcAV8x7p" text="部队成员" />
+    <string id="HCZ5XSEL" text="{?IS_POSITIVE}+{?}-{\?} {NUMBER}" />
+    <string id="HD2wzAxz" text="斯特吉亚人是卡拉迪亚北部外来部落的后裔。当帝国扩张到他们的寒冷森林时，他们发现了一个现成的市场，可以出售他们捕猎到的森林动物的奢侈毛皮。斯特吉亚的酋长们成为了王子，在移居到他们王国的北地雇佣兵的帮助下争夺着卓越的地位。他们是优秀的猎人和旅行者，远行寻找贸易还有掠夺的机会。" />
+    <string id="hDktLs4a" text="你的举动既理智又有礼。你可以走了。" />
+    <string id="HdTVkcII" text="增进与人民的关系。与贵族社交。讨价还价" />
+    <string id="HEQ2zEei" text="取消" />
+    <string id="hEWuE0Ch" text="你是指挥官。你可以在战斗中命令所有编队。" />
+    <string id="hfSW9FTN" text="远程武器 V" />
+    <string id="HGBuP0wy" text="在这名俘虏获得{CONFORMITY_AMOUNT}服从度后，还将额外有一名俘虏可供招募俘虏每小时获得{CONFORMITY_AMOUNT}服从度。" />
+    <string id="HiSzYWeh" text="啤酒" />
+    <string id="hJypvWMR" text="精炼" />
+    <string id="HkfY3Ds5" text="胸甲" />
+    <string id="HkZ4E94O" text="虽然这个草原部落联盟曾经过着游牧的生活，但他们现在已经定居在帝国的东部边境，并逐渐过渡到拥有永久城镇中心的农业社会。尽管如此，他们仍然保留着游牧生活的许多方面，包括对马匹的喜爱。他们精于骑射，可以在打击敌人时保持安全距离。" />
+    <string id="hL3JIQbd" text="带领这个编队去战斗。" />
+    <string id="HmbvM9Na" text="你想跳过当前比赛吗？" />
+    <string id="HMgrtLYa" text="你的勇士输了决斗。你的军团因这次失败而灰心丧气。你的部队失去士气。" />
+    <string id="hMIjbLjt" text="夫人" />
+    <string id="hmlUJaDa" text="幸会，{PLAYER.LINK}。我的名字是{NPC.LINK}，我永远欠你的人情。如果有什么我能帮助你的，请告诉我……" />
+    <string id="HNBAw1uO" text="{PARTY}获得了{AMOUNT_TO_ADD}声望。{CLAN}的新声望为{NEW_RENOWN}。" />
+    <string id="HNqy4Ctc" text="不能踢出正在解决事件的同伴。" />
+    <string id="ho5EndaV" text="决定" />
+    <string id="HP9wMk1T" text="现在不能打开部队界面！" />
+    <string id="HPe7HaZx" text="卖出俘虏" />
+    <string id="hpNFob32" text="这个城镇很穷。人们营养不良。" />
+    <string id="hqIIEur1" text="你遇到了{ARMY}。" />
+    <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}等待其他攻城器械到达。" />
+    <string id="HuCClZqT" text="工资" />
+    <string id="hVmamTJX" text="通过消耗食物来提高部队士气（军需官）。在当地发展经济并建造项目（总督）。在你的定居点消磨一下（家族领袖）。" />
+    <string id="HWSKCne0" text="1天内提升一个计划2x速度花费500&lt;img src=&quot;Icons\Coin@2x&quot;&gt;" />
+    <string id="Hx47TGrA" text="困难" />
+    <string id="hYgmzZJX" text="第纳尔" />
+    <string id="HYVQKIhh" text="守方部队" />
+    <string id="HZ8ws4qX" text="雇佣兵服务" />
+    <string id="hZ9eNwFZ" text="特长通常是成对解锁的。{newline}{newline}每一个天赋的加成效果都不同，所以要明智地进行选择。" />
+    <string id="hzflo2kJ" text="你再一次救了我们的命，{PLAYER.LINK}!你真的是最好的朋友。" />
+    <string id="i0H8WLRx" text="你不能驱逐统治家族。" />
+    <string id="I2YhWaIt" text="货物" />
+    <string id="i30TCtj2" text="暂停" />
+    <string id="I42QtISB" text="不能将主英雄踢出家族。" />
+    <string id="I4BbOX46" text="你在{ARMY_LEADER}的军团里。" />
+    <string id="i4g81l3E" text="关系：{NUM}" />
+    <string id="I8xMpWxO" text="大胆" />
+    <string id="IagYTD5O" text="繁荣" />
+    <string id="IBEJPlEj" text="家" />
+    <string id="IbGNaL0H" text="{HERO.LINK} 等级：{LEVEL}" />
+    <string id="IbkODMHV" text="寻找踪迹和藏身处。穿越崎岖地形（斥候）。" />
+    <string id="IcgVKFxZ" text="统治者" />
+    <string id="iCirZbD8" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}城墙上射击。" />
+    <string id="icmyseoo" text="大人，" />
+    <string id="IcQ2doLo" text="x{QUANTITY}" />
+    <string id="id62me1x" text="按下 &quot;围攻&quot;" />
+    <string id="IdUKVyoF" text="{JOB_NAME}{FIRST_NAME}" />
+    <string id="IF7zS5ia" text="你已经超出俘虏人数限制了。{newline}你将暂时关押你的俘虏，但一段时间后他们将很快逃离你的部队。你的速度也会慢下来。{newline}你确定吗？" />
+    <string id="iFg5N7r3" text="单手武器" />
+    <string id="Igoid3sR" text="提议将这个家族驱逐出王国" />
+    <string id="ihVHfUFT" text="阵型" />
+    <string id="iisvVbDI" text="全部购买" />
+    <string id="IjMel5eg" text="你可以一次性卖掉所有的俘虏。{newline}{newline}或者可以与赎金掮客联系来单独挑选要卖出的俘虏。" />
+    <string id="IK2IPJi1" text="盐" />
+    <string id="iKUXVaFf" text="影响力花费：{reg0}" />
+    <string id="iKzyJHiD" text="对不起，目前我不知道有什么好的交易技巧。" />
+    <string id="iLcfZ71B" text="说服" />
+    <string id="iLD5Lkto" text="火焰石弩" />
+    <string id="ilE6nmWh" text="{YEAR}，秋季{DAY}" />
+    <string id="ilhkpKfp" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}进行骑兵的小规模战斗。" />
+    <string id="ImJ4hdke" text="提出新政策" />
+    <string id="iNDKwJYJ" text="部队升级经验值花费" />
+    <string id="InGwtrWt" text="退出" />
+    <string id="inKr3PbA" text="军团" />
+    <string id="iNriAkLl" text="用于提高速度" />
+    <string id="ioBKEA6x" text="你可以通过升级获得角色点数。每升一级你将获得{POINT_PER_LEVEL} 点数。" />
+    <string id="ioKVFDcQ" text="{?AND} {?}和{\?}{SENTENCE_3} " />
+    <string id="iOLa5rjZ" text="谷物通常是你能买到的最便宜的食物。{newline}{newline}其他种类的食物在食用后可以给予不同的加成。{newline}{newline}现在请买些食物。" />
+    <string id="IoLK7Lec" text="基础规模" />
+    <string id="iORENG5d" text="雇佣兵不能提出政策。" />
+    <string id="IOtAJCVw" text="总影响力：{TOTAL_INFLUENCE}" />
+    <string id="IPjqLEdQ" text="{DAY}天之前" />
+    <string id="iQao7Ct6" text="饥饿的部队" />
+    <string id="iRo4meJR" text="现在无法访问百科窗口！" />
+    <string id="Is3O8NXW" text=" （{NUMBER_OF_MEN}+{NUMBER_OF_WOUNDED_MEN}w）" />
+    <string id="ISJ8Tt8a" text="{COUNT}件{ITEM}" />
+    <string id="itLpRUtF" text="家族没有空的部队槽位。" />
+    <string id="ITTGMEUJ" text="枣椰果" />
+    <string id="Itv3fgJm" text="谷物" />
+    <string id="itvLr7dL" text="拾起" />
+    <string id="iUTXqFmm" text=" 还有 {VILLAGE_NAMES}附近的{?VILLAGE_COUNT}村庄{?}村庄{\?}" />
+    <string id="IuWu5Bu7" text="慷慨" />
+    <string id="IUxlDj4s" text="全部随机" />
+    <string id="iVEZrZzs" text="带头冲锋" />
+    <string id="IvrBQHRp" text="近战武器" />
+    <string id="IwpFM2CJ" text="这次锦标赛将是一场赛马比赛。" />
+    <string id="IXwOaa98" text="部队规模" />
+    <string id="iYCR3xuQ" text="斯特吉亚公国" />
+    <string id="iyob7aH3" text="坚守这个地方" />
+    <string id="J0hYxaaa" text="当然，我会给你提示的。我刚刚从{SETTLEMENT}以{BUY_COST}{GOLD_ICON}的价格购买了一些{ITEM_NAME}，打算去{DESTINATION}以{SELL_COST}{GOLD_ICON}的价格出售。" />
+    <string id="J3ACAwbt" text="对手建立起了对抗你的屏障，但是你剩下的棋子更多。你赢了！" />
+    <string id="J3L0MuEU" text="战斗失败。按{leave_key}查看结果。" />
+    <string id="j4F7tTzy" text="家族" />
+    <string id="j4IdJPkE" text="无法在马背上重新装填" />
+    <string id="J4NmLqib" text="完成" />
+    <string id="J5961cx8" text="你会急剧慢下来。要小心！" />
+    <string id="J7DnK8Kv" text="今天不是你的幸运日，朋友。把你的银币交出来怎么样?不得不切开别人的喉咙可真是太遗憾了。" />
+    <string id="j9Weia10" text="简单" />
+    <string id="jbQ3LYBl" text="皇帝" />
+    <string id="JbTCDDb0" text="弩箭" />
+    <string id="jCbYaCcg" text="幸会，{PLAYER.LINK}。我是{NPC.LINK}。谢谢你的帮助，希望我们能再见面。" />
+    <string id="Jd0Kq9lD" text="盾牌" />
+    <string id="jd4ULLGr" text="现有任务" />
+    <string id="JdNTRtpJ" text=" 保持部队的高昂士气集结带领军团 " />
+    <string id="Jelvod71" text="俘虏" />
+    <string id="jfIbp2Hg" text="跟上： " />
+    <string id="JflqTj4T" text="杂项。" />
+    <string id="JG2bgZMM" text="在盟友{TARGET_FORMATION}前方作战" />
+    <string id="jGFEbaex" text="掷骰" />
+    <string id="JGk5MJkN" text="空闲点数" />
+    <string id="Jh7sayJB" text="失败几率" />
+    <string id="JHBEwYGT" text="由镇民购买" />
+    <string id="JHbVw0BJ" text="行会会长" />
+    <string id="jhosdZaX" text="TROOP_NAMES_BEGIN}?IS_PLURAL}和?}\?}TROOP_NAMES_END} ?IS_PLURAL}正在?}正在\?}防御城堡关键位置。" />
+    <string id="jIcGy6gI" text="{LEFT} : {RIGHT}" />
+    <string id="jiKRLWD4" text="在百科全书中显示" />
+    <string id="JkpSoFQ8" text="造成伤亡" />
+    <string id="JkVV4vUs" text="点击交谈按钮开始对话" />
+    <string id="jlgjLDo7" text="驻军" />
+    <string id="JnoB0RZ4" text="处决 {?DYING_HERO_GENDER}她{?}他{\?}" />
+    <string id="jnTQbSsH" text="你看到人们聚集在村子里抵抗你。你想怎么做？" />
+    <string id="joICaqvo" text="未分配" />
+    <string id="JP7LTAsa" text="很好！很好！现在走吧！走远点！[ib:closed][rb:positive]" />
+    <string id="jpBpwgAs" text="定居点" />
+    <string id="jPwa1oOm" text="银币" />
+    <string id="JQarnWiz" text="你没有足够的材料。" />
+    <string id="jQGcUobB" text="平民" />
+    <string id="JQOUUVct" text="暂停" />
+    <string id="jsf7b6bD" text="处决俘虏" />
+    <string id="JSokBXER" text="重步兵" />
+    <string id="jSXE0Gbj" text="这里的村民很少，而且都很胆小，他们很快就在你面前散开跑走了。这个村庄任你处置。" />
+    <string id="jtN3ayKE" text="主要产量" />
+    <string id="JTyC3Xra" text="吝啬的" />
+    <string id="Ju9ZiFT2" text="近战武器 V" />
+    <string id="jx8ohENz" text="军械师" />
+    <string id="jy9orOJz" text="游玩" />
+    <string id="jZYUdkXF" text="饥饿的" />
+    <string id="K0mlQblA" text="军团每日食物消耗" />
+    <string id="K0XVOalL" text="当前赌注" />
+    <string id="K2G3XJwZ" text="鲁莽" />
+    <string id="k3LajvfJ" text="旗帜编辑器" />
+    <string id="k4TcX1wT" text="{HOUR_PREPARATION_TIME} {?PLURAL_HOURS}小时{?}小时{\?}" />
+    <string id="K6GYskvJ" text="文化：" />
+    <string id="k6tT1vIg" text="比武结束了，你的对手今天打败了你……" />
+    <string id="k7ig2JvK" text="一位男爵" />
+    <string id="k8ocninL" text="在那儿停下——别紧张。老天爷把这些土地赐予我们。任何人都不能在未经我们允许的情况下贸然通过。" />
+    <string id="k8PxNh7x" text="盾牌 V" />
+    <string id="k8QpbFnj" text="斗篷" />
+    <string id="k9QvIYaR" text="专精点数用于提高任意技能的学习速度。" />
+    <string id="ka7vAxgo" text="向敌人{TARGET_FORMATION}冲锋" />
+    <string id="KawqKhwh" text="重甲" />
+    <string id="KC5AZohd" text="你好，旅行者。欢迎来到我们的森林。我们要向你收一点儿过路费。" />
+    <string id="KcQiDE6b" text="在{SETTLEMENT_NAME}的售价为：{SELL_PRICE}" />
+    <string id="kdV0tx9K" text="你好，旅行者。希望你带了钱包。你看，我们就是你所说的土匪。{newline}恐怕我们不能让你不留下点儿钱就走。[if:convo_delighted]" />
+    <string id="kDV7wCtI" text="完成时间：{PREPARATION_TIME}" />
+    <string id="KFGfTXqE" text="驮马" />
+    <string id="kftE5nvv" text="马甲" />
+    <string id="KGH8rjOP" text="移动{SETTLEMENT_NAME}去掠夺" />
+    <string id="KGHlXL8H" text="很好——我们会用你的鲜血净化这片土地。" />
+    <string id="KGjFnVsR" text="术语" />
+    <string id="kgqCVvIb" text="我的兄弟{REFERING_HERO.LINK}" />
+    <string id="kHC5EjDJ" text="城镇加成" />
+    <string id="kHC5EjEJ" text="小阵营奖励" />
+    <string id="Khr5yETv" text="阿塞莱人是纳哈斯沙漠的居民，混合了游牧的贝都因人和定居在绿洲的农民。他们以骑术和许多国家的知识而闻名，尤其是医学，这些知识来自于大陆上一些最赚钱的贸易路线。每个家族都以自己的血统为傲，并蔑视其他家族，但是当他们被一个有魄力的领袖团结起来时，就成了南方的一支重要力量。" />
+    <string id="kIAsKjp1" text="欢迎来到骑马与砍杀2：霸主抢先体验版！{newline}这个体验版展示了霸主的中期游戏特点！{newline}你可以自由地解决事件，征服定居点，管理城市，参加锦标赛，贸易或者只是在游戏世界里闲逛。{newline}玩得开心！" />
+    <string id="KiJd6Xik" text="移动" />
+    <string id="kiOst6DH" text="帝国" />
+    <string id="KiVCv1Bx" text="围攻{SETTLEMENT_NAME}" />
+    <string id="KJDqOGEU" text="我们的计划是重整队形，改天再战。" />
+    <string id="KkaVpLXd" text="把这项政策付诸表决" />
+    <string id="klZnvb15" text="角色" />
+    <string id="kM1Y8XT0" text="你不会失望的，{?PLAYER.GENDER}夫人{?}先生{\?}。全卡拉迪亚你也找不到更好的战士了。[rb:very_positive]" />
+    <string id="koX9okuG" text="无" />
+    <string id="kQMtOPye" text="围攻" />
+    <string id="KQQaoouG" text="（已完成）" />
+    <string id="kRKYHQ6V" text="当一个堆叠准确地落在它的本垒上时，所有控制堆叠的玩家的棋子都会回到玩家的手上，并且可以重复使用。属于另一名玩家的棋子将被淘汰出局。" />
+    <string id="krmvzGaV" text="怎么玩" />
+    <string id="kRraos2Z" text="你在我的领地上制造麻烦…我并不在意。" />
+    <string id="krtuDr9P" text="新的沙盒" />
+    <string id="KSaxvbs9" text="显示于地图" />
+    <string id="ktFeXrXl" text="你不能进行任何移动。跳过回合。" />
+    <string id="KTGG9EgL" text="一路顺风！除了我们，别让其他人打劫你！" />
+    <string id="Ktk2FaFn" text="队伍（{CURRENT}\{LIMIT}）" />
+    <string id="KUEHAD4U" text="任务" />
+    <string id="kuKad3dj" text="{MISSION_MODE}" />
+    <string id="kuLjsNgz" text="乡间要人" />
+    <string id="kvykuTJS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}攻击攻城武器。" />
+    <string id="kwKT6zKq" text="你的单位预期会：{BEHAVIOUR_NAME_BEGIN}{?IS_PLURAL} 和 {?}{\?}{BEHAVIOUR_NAME_END}" />
+    <string id="KWXEMsHC" text="{LORD.LINK}正在{SETTLEMENT_NAME}" />
+    <string id="kx7q8ybD" text="臂甲" />
+    <string id="kX8svveF" text="这件物品的价格接近平均价格" />
+    <string id="kx8ZfaST" text="好吧。那么你有多重视自己的性命呢？[ib:hip][rb:trivial]" />
+    <string id="kXno6ZuU" text="战斗结束……" />
+    <string id="kyiibFu2" text="你赢了战斗！" />
+    <string id="KZAQHSa2" text="然而，繁荣显然并没有给每个人带来同等的好处。人们似乎很愤怒，没完没了地抱怨新农村移民、不断上涨的物价，以及那些比其他人赚得更多的人。" />
+    <string id="l4uTnJct" text="你需要选择一个结果，以及你希望达成这个结果的程度。" />
+    <string id="l6a3grfK" text="你的部队" />
+    <string id="L7teSXvq" text="你需要成为军团的领袖才能管理它" />
+    <string id="L7wn49Uz" text="外交" />
+    <string id="lAgfGeXJ" text="王国阵营" />
+    <string id="LApMSsnb" text="专精点数" />
+    <string id="laV5aNhK" text="独一无二" />
+    <string id="lAWwcO6b" text="瓦兰迪亚王国" />
+    <string id="lbdSaDpI" text="剩余时间" />
+    <string id="lBn2pSBL" text="成员" />
+    <string id="LBNzsqyb" text="封地" />
+    <string id="LBy6YDMV" text="重组" />
+    <string id="Lc1vIEnM" text="狼和羊以同样的方式沿着棋盘上的线滑动，每回合一格。" />
+    <string id="LEC8NhCV" text="政策" />
+    <string id="lfkwsa5f" text="追踪" />
+    <string id="lfMgaBiJ" text="想让我们不杀你，最好别浪费我们的时间。" />
+    <string id="Lg3zeoYi" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}保护{#IS_LEFT}{#}左{#}多{\#}{?IS_MIDDLE}中{?}{\?}{?IS_RIGHT}右{?}{\?}翼{#IS_LEFT}{#}{#}{\#}。" />
+    <string id="lGTHPRP8" text="定居点很好TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO" />
+    <string id="lh1yhgXw" text="马匹装备 V" />
+    <string id="lihYjOSc" text="件。" />
+    <string id="lj8XH6O7" text="现在无法访问王国窗口！" />
+    <string id="LJwKdMdw" text="等待你的对手进入位置" />
+    <string id="LL6GkIfg" text="如果你能在倒下之前击败{OPPONENT_COUNT_1}个对手，你就能得到{PRIZE_1}{GOLD_ICON}。至少击败{OPPONENT_COUNT_2}个对手，你就能得到{PRIZE_2}{GOLD_ICON} ，如果能击败{OPPONENT_COUNT_3}个对手，就能得到{PRIZE_3}{GOLD_ICON}，如果你坚持得够久，能击败{OPPONENT_COUNT_4}个对手那就能得到{PRIZE_4}{GOLD_ICON}。如果你能成为最后一位站着的战士，那就能得到战斗的大奖，{PRIZE_5}{GOLD_ICON}。听起来不错吧？[rb:trivial]" />
+    <string id="Ll90uaxu" text="成功围攻" />
+    <string id="LmwhFv5p" text="肉" />
+    <string id="lnKAqDVM" text="防守要地" />
+    <string id="Lp0byzGQ" text="我" />
+    <string id="lpbDPuuW" text="{RULER.NAME}{?RULER.GENDER}女皇{?}皇帝{\?}" />
+    <string id="lqMQ6GXj" text="剩余食物" />
+    <string id="lQQPKo02" text="移动去掩护我们，对付在我们背后移动的敌人" />
+    <string id="lRAaUTjs" text="掉落" />
+    <string id="lrAnY7Fb" text="旧任务" />
+    <string id="LSsFOEQy" text="不到一天" />
+    <string id="LsZEdD2z" text="城墙" />
+    <string id="lULBZ714" text="油" />
+    <string id="lvc1Xgf8" text="酒馆女仆" />
+    <string id="LvM8vCxX" text="锦标赛掮客" />
+    <string id="LwfILaRH" text="马" />
+    <string id="lxLTCX5j" text="职业：" />
+    <string id="lXRzWrGo" text="贵族" />
+    <string id="LymKjMLk" text=" 你的手下刚刚加入了你的部队" />
+    <string id="lZ1IDnpP" text="全部给予" />
+    <string id="LZhRP3PM" text="等待另一个攻城器械完成" />
+    <string id="LZjdxXex" text="这个村庄一贫如洗。人们营养不良。他们的牲口都在生病或濒临死亡。农田被杂草填满，因为没有人手来耕种它们。" />
+    <string id="Lzmtqif5" text="军团规模" />
+    <string id="lznqF0oO" text="解散" />
+    <string id="M00MeRJD" text="亚麻布" />
+    <string id="M03MNN3T" text="香瓜" />
+    <string id="M2b5mtAE" text="同伴" />
+    <string id="m2YKBbdI" text="你好呀，迷路的小羊羔。我们是山里的狼，想占用你一点儿时间..." />
+    <string id="m6A7RLby" text="狡诈的" />
+    <string id="M6tfHhq7" text="你已经投票，统治者已经决定结果。TEMP" />
+    <string id="m6uSOtE4" text="你没有足够的钱。" />
+    <string id="M9p0vPad" text="我知道你的名字……{COMMENT_STRING_MAIN}" />
+    <string id="m9vD3VlN" text="部队的规模不会扩大或者缩小。它会尽量保持它的规模不变。" />
+    <string id="MaBSSg7I" text="攻城槌" />
+    <string id="MacceKIX" text="{NAME}的{RELATION_TEXT}" />
+    <string id="mAxXKaXp" text="重置" />
+    <string id="mbS0DkUo" text="掠夺" />
+    <string id="mbT1uNPa" text="匕首" />
+    <string id="Mc8ojOGn" text="户数" />
+    <string id="MciIqod6" text="长枪" />
+    <string id="mDbaNQay" text="骑马向前并尝试攻击你的对手！" />
+    <string id="MeQmoYb4" text="你没有足够的关系来获得这支队伍。{newline}你有{REL1}。你需要{REL2}。" />
+    <string id="MFLAvq4Z" text="这地方有强盗。你想攻击他们吗？" />
+    <string id="MfnYoLdc" text="费用" />
+    <string id="MGv4Uabd" text="你把{BET_AMOUNT}押在自己身上但却输了这场战斗。" />
+    <string id="mGWrSJLE" text="你不能在地图事件中解散军团。" />
+    <string id="MH6ebguQ" text="单位很好TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO" />
+    <string id="MHJCuM3N" text="停下！你这个异乡人的脚玷污了我们世代相传的神圣土地。我们该怎么办呢？" />
+    <string id="mieKgbp8" text="每日射速" />
+    <string id="mIt6k9Rs" text="{ATTACKER}是{STATE} {DEFENDER}" />
+    <string id="mJB7knQo" text="撤退" />
+    <string id="mJE0o9Zi" text="驻军" />
+    <string id="mKwTaD83" text="财政" />
+    <string id="MLmHSSg0" text="重骑兵" />
+    <string id="MmNF7sW7" text="移动棋子只能通过从你的对手那里俘虏棋子来达成。{newline}俘虏要通过垂直跳过1枚或多枚对方棋子来达成。" />
+    <string id="Mms9bbhY" text="{DAY_NUM} {?DAY_NUM==1}天{?}天{\?}" />
+    <string id="mNr84Xm1" text="现在无法访问家族窗口！" />
+    <string id="mPaQzgS0" text="很高兴在这里见到你，{PLAYER.LINK}。" />
+    <string id="MpDMaBE9" text="你在侮辱我们吗？我会用你的头盖骨当碗使！" />
+    <string id="MPZ40lEk" text="新生儿命名" />
+    <string id="MqCH7R4A" text="安全" />
+    <string id="MqsWixDp" text="撤退！" />
+    <string id="MRktqZwu" text="技能专精" />
+    <string id="MrtzlaYt" text="在战斗中，按住Alt键显示敌军和盟军编队的标记。" />
+    <string id="mSPDO0Fe" text="你被敌人困住了。你的状态无法作战。你唯一的选择就是投降。" />
+    <string id="MT4b8H9h" text="未知" />
+    <string id="mTTWkewD" text="给予" />
+    <string id="MUCmJaXQ" text="{FACTION}的统治者" />
+    <string id="MW8rlyfL" text="投掷" />
+    <string id="mwegfVKr" text="理性" />
+    <string id="MWGATOoz" text="这次锦标赛将是一场混战。" />
+    <string id="MwgcfGsr" text="当一枚棋子落在已经有对方棋子的方格上时，就会俘虏对方的棋子。被俘虏的棋子将被堆叠在入侵棋子的下边。{newline}一叠棋子也可以被再次俘虏，只要最上边的棋子是属于对手的。{newline}当一枚棋子俘虏目标后，下个回合它将朝着大本营方格移动。" />
+    <string id="MxG4217V" text="村民" />
+    <string id="MxmOWsHj" text="百科全书" />
+    <string id="mXxVf2rb" text="书籍" />
+    <string id="mz8PnI3s" text="击中骨头：{BONE}。" />
+    <string id="mZR7eYHa" text="盾牌 I" />
+    <string id="N0MCVBXb" text="忘了吧" />
+    <string id="n3cjEB0X" text="工具" />
+    <string id="n3e3g6Rq" text="赌" />
+    <string id="N5fmlTza" text="{LEFT}，{RIGHT}" />
+    <string id="N6O2GtTK" text="精炼" />
+    <string id="n6Q6vv5t" text="你掠夺了{GOLD}金钱。" />
+    <string id="N6QTvjMf" text="俘虏" />
+    <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}撤回。" />
+    <string id="N84HlDaV" text="{NUMBER_OF} {ITEM}（{AMOUNT}{GOLD_ICON}）" />
+    <string id="NaNMRPv4" text="阿塞莱" />
+    <string id="NaorUInI" text="人员不足的部队" />
+    <string id="nbBgbwM2" text="队列中：{NUMBER}" />
+    <string id="NBv29XpJ" text="你不能解散自己所处的军团。" />
+    <string id="nDNOn5o2" text="装备" />
+    <string id="NeWvHjCw" text="火焰弩炮" />
+    <string id="NF627oiX" text="北部帝国" />
+    <string id="nfQhamAF" text="挥砍速度： " />
+    <string id="NgHSyQem" text="在军团" />
+    <string id="nHGm1wYg" text="战斗结束。按{leave_key}查看结果" />
+    <string id="nHkQbLDc" text="不能在骑乘时使用" />
+    <string id="nHSVy0ns" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}从{#IS_LEFT}{#}左{#}多侧{\#}{?IS_MIDDLE}中{?}{\?}{?IS_RIGHT}右{?}{\?}翼展开攻击。" />
+    <string id="NiyNgXMe" text="这个部队已经解散了" />
+    <string id="njnMk5P1" text="否认一项政策" />
+    <string id="nk0bADtq" text="你拒绝了决斗的挑战。你的军团对这种懦弱的表现感到灰心丧气。你的部队失去士气。" />
+    <string id="nkzKgspT" text="管理驻军" />
+    <string id="NLKmdNbt" text="寻找" />
+    <string id="nMcvafHY" text="活跃" />
+    <string id="nNDdo3I9" text="单手剑" />
+    <string id="nnr8sANN" text="{PARTY_LIST_TAG}({COUNT} + {WEAK_COUNT}w)" />
+    <string id="nNRKCYpR" text="定居点周边土地" />
+    <string id="NNxRRbaq" text="你想加入我的家族吗？TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO" />
+    <string id="NnZ5w9zm" text="{NUM1} ({NUM2}）" />
+    <string id="NqarFr4P" text="选项" />
+    <string id="NQbqtEqP" text="花费： {COUNT}" />
+    <string id="NqSLYe6b" text="声望：" />
+    <string id="NRpwZGxI" text="士兵" />
+    <string id="NSSsxBHV" text="随机" />
+    <string id="NvJru5Tz" text="仅限男性" />
+    <string id="nVKEUvaC" text="TROOP_NAMES_BEGIN}?IS_PLURAL}和?}\?}TROOP_NAMES_END} ?IS_PLURAL}正在?}正在\?}使用屠坑。" />
+    <string id="nvswKHTZ" text="你支付了{GOLD_AMOUNT}{GOLD_ICON}。" />
+    <string id="nxQaab9d" text="{SHOPNAME} （{SHOPTYPE}）" />
+    <string id="ny32aoLJ" text="马匹装备 II" />
+    <string id="nyGRpJT3" text="队列" />
+    <string id="NYHinaEh" text="在战斗中无法打开物品栏！" />
+    <string id="o0OQ5omY" text="我们的计划是坚守防线。" />
+    <string id="o1MtbgEi" text="未解决事件" />
+    <string id="o2ce7bhY" text="你很聪明。" />
+    <string id="O3dhjtOS" text="头盔" />
+    <string id="o5ho2Txg" text="军团凝聚力" />
+    <string id="O69Vhqxk" text="那么你打算给我们多少？" />
+    <string id="O6IcvFoO" text="&lt;b&gt;火焰弩炮&lt;/b&gt;{NEWLINE}TODO FIRE ONAGER DESC." />
+    <string id="o7I8qayN" text="哈！没有什么比肚子上挨一拳更能让你知道自己还活着了的吧？看起来你成功击倒了{OPPONENT_COUNT}名对手。不赖嘛。但那没法让你获得任何奖金。现在，如果我是你的话，我会回去向大家展示我能做什么……" />
+    <string id="O8TpGSDA" text="天鹅绒" />
+    <string id="O9xpd5bn" text="一位男爵夫人" />
+    <string id="obHSBrTV" text="阵营很好TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO" />
+    <string id="ObTSCxra" text="封臣" />
+    <string id="OBXNbvkK" text="当你试图强行向村民们征收补给时，他们中的一些人组织起来对你进行抵抗。与他们作战的行为，将被视为向{KINGDOM}宣战。" />
+    <string id="OCGaTxac" text="锦标赛奖品" />
+    <string id="OdFPHvtE" text="叛军正在攻击这个定居点。你想干预吗？" />
+    <string id="ODQmOrIw" text="制作人员表" />
+    <string id="OEax2Y9c" text="劫掠商队招募并领导强盗部队。渗透敌方城镇。行贿。从囚禁中脱离。" />
+    <string id="oGflu1jV" text="使用屠坑" />
+    <string id="OGjq7rpg" text="我们正在把我们的产品运往{TOWN}的市场。" />
+    <string id="ogtgc69b" text="你被授予了携带旗帜的权利。你被授予携带旗帜的权利。旗帜是身份与荣耀的象征。你想选哪个旗帜？" />
+    <string id="OGxk0EXC" text="锦标赛结束了。在最后一回合，{TOURNAMENT_FINAL_PARTICIPANT_A}击败了{TOURNAMENT_FINAL_PARTICIPANT_B}获得了胜利。" />
+    <string id="oHaWR73d" text="好的" />
+    <string id="Ohdrbpiw" text="瓦兰迪亚" />
+    <string id="OhLXo0gb" text="罪犯总督" />
+    <string id="OIBpCGYv" text="这个部队的规模将会缩小。它的当前大小目标是{TARGET_SIZE}" />
+    <string id="OiCCv0EL" text="这个村庄显然正在经历艰难时期。农具又生锈又破烂。灌木丛和杂草似乎正在夺回最外围的一些田地。 " />
+    <string id="oiSW6MyB" text="胸甲" />
+    <string id="OJbpmlXu" text="远程" />
+    <string id="OJmC1Ckc" text="剩余对手：{REMAINING_OPPONENT_COUNT}" />
+    <string id="okH55fbn" text="盟军的援军已到达！" />
+    <string id="OKUTPdaa" text="等级" />
+    <string id="ol0rBSrb" text="{STR1}{newline}{STR2}" />
+    <string id="OLKGQGHU" text="我是{TOWNS}的领主。" />
+    <string id="OLyjbawD" text="[More]" />
+    <string id="ONGv27TH" text="现在滚出我的视线，你这个肮脏的杂种！" />
+    <string id="OnttNMRn" text="盾牌 IV" />
+    <string id="Ooqyo9RB" text="跳过回合" />
+    <string id="OPhlqUVl" text="交谈" />
+    <string id="OpSGWdrk" text="匪徒" />
+    <string id="OqCodBZJ" text="狗东西，在那儿停下！让我们看看你身上有什么！" />
+    <string id="oRaa1yls" text="消耗品" />
+    <string id="OSZUvWbG" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}已经{?}已经{\?}整装待发。" />
+    <string id="ot2M62R8" text="+{BONUS_AMOUNT}加成至驻军队伍" />
+    <string id="OtP3heba" text="你打败了你的对手，赢得了比赛！" />
+    <string id="ou9asw1a" text="挥砍{SWING_DAMAGE_TYPE}伤害： " />
+    <string id="OviaJ1tA" text="其他" />
+    <string id="oVSS2Lp5" text="马匹装备 III" />
+    <string id="OWCoBElc" text="你被{PARTY_NAME}俘虏了。" />
+    <string id="owg6SqHF" text="一位埃米尔" />
+    <string id="OxiaKT0G" text="斯特吉亚" />
+    <string id="ozYRUrum" text=" 治疗当地受伤的士兵" />
+    <string id="P2CRzfV7" text="本地商店" />
+    <string id="p2WBSIa7" text="凝聚力：" />
+    <string id="P3SJla9F" text="抢劫过的村庄" />
+    <string id="p4PIzGTP" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}占据高地。" />
+    <string id="p5Rad7i2" text="战争部队" />
+    <string id="p8amfQyz" text="雇佣兵不能驱逐家族。" />
+    <string id="P8BxiiKd" text="尽管贫穷，你几乎听不到抱怨的声音，人们已经麻木了，不期待任何改变。" />
+    <string id="P8Z3zQyy" text="安全" />
+    <string id="pa3E7810" text="围攻准备" />
+    <string id="PAa618xe" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}{?}{\?}正在突围" />
+    <string id="pB5anEQq" text="移动到起始位置" />
+    <string id="pbdrFqb3" text="迫使这支军团解散" />
+    <string id="Pc0zpaGa" text="瞧瞧这是谁来了？这一带是要交过路费的，旅行者，要么交钱要么放血。" />
+    <string id="pcy8IXDf" text="{RULER.NAME}{?RULER.GENDER}女王{?}国王{\?}" />
+    <string id="PDdh1sBj" text="名称" />
+    <string id="PdXqoa2W" text="前往{SETTLEMENT_NAME}" />
+    <string id="PE4nuMc7" text="本页解释了霸主中的游戏概念" />
+    <string id="PEKxMxal" text="存根：你现在可以逃跑了。" />
+    <string id="pEm60xEX" text="你的对手俘虏了一个棋子。" />
+    <string id="pftVKkgq" text="要在战役地图上追踪一个定居点，按下它名字旁边的圆圈。" />
+    <string id="pgbC8UkU" text="叛乱" />
+    <string id="pgd7Dp78" text="住所" />
+    <string id="PGXitpMN" text="{SETTLEMENT_NAME} - ({COMMON_AREA_NAME})" />
+    <string id="PHkC8Gia" text="出售" />
+    <string id="PhoKHbhd" text="战斗胜利。按{leave_key}查看结果" />
+    <string id="Pia30xtc" text="{?ASKED_LORD.GENDER}她{?}他{\?}目前在{TOWN_NAME}。" />
+    <string id="PiHpR4QL" text="单手" />
+    <string id="PitdvCJI" text="更换总督" />
+    <string id="PJEuE208" text="民兵：" />
+    <string id="PJNW1UWK" text="店主" />
+    <string id="pJR9zz06" text="可以升级的士兵会有一个特殊的图标。{newline}{newline}有些士兵可能有两条升级路径。" />
+    <string id="pkyASW0A" text="部队/支付规模范围" />
+    <string id="pLZeP6L6" text="攻击城墙，{?IS_GENERAL_SIDE}{?}从{SIDE_STRING} 边 {\?}" />
+    <string id="pm0yiOmv" text="获得：{DENAR_AMOUNT}{GOLD_ICON}" />
+    <string id="PMnSk81U" text="那么说你宁可战斗了，小羊羔？那就看看你的角长成啥样吧。" />
+    <string id="PN4Edq9W" text="近战武器 III" />
+    <string id="pn9KNMxb" text="你被敌人困住了。但是你的士兵的状态无法作战。你唯一的选择就是投降。" />
+    <string id="PNZmPprx" text="双手剑" />
+    <string id="pOCOS8um" text="孩子" />
+    <string id="porKAP64" text="再次对这一政策进行投票" />
+    <string id="PpPbWYPB" text="有资格成为雇佣兵的" />
+    <string id="pPRYdrk7" text="军团管理" />
+    <string id="pq48aN8d" text="士气：{reg1}" />
+    <string id="pQ9Sxily" text="祝贺你，冠军！你的战斗令人难忘！作为最后的胜利者，你当然赢得了最高奖：{PRIZE}{GOLD_ICON}。" />
+    <string id="PqfS5lgq" text="{ABSORBED_AMOUNT}伤害被{ARMOR_AMOUNT}盔甲吸收。" />
+    <string id="pqfz386V" text="家族领袖" />
+    <string id="prs0jRAy" text="总计" />
+    <string id="psjAVdkH" text="重置图标" />
+    <string id="pSjnd6PX" text="你输了决斗。你的军团因你的战败而灰心丧气。你的部队失去士气。" />
+    <string id="PSN8IaIg" text="盾牌" />
+    <string id="pSWt8NXH" text="掠夺{SETTLEMENT_NAME}（{RAIDING_PROCESS}%）" />
+    <string id="pSz4xSqO" text="英雄的{SKILL_NAME}技能需要达到{MIN_SKILL_AMOUNT}或更高。" />
+    <string id="pT9TZehy" text="营地" />
+    <string id="PUjDWe5j" text="文化" />
+    <string id="puwXJDa9" text="繁荣度：" />
+    <string id="PVidxUQ8" text="食物库存" />
+    <string id="PVUeymMR" text="正在进行" />
+    <string id="pwFp1A5W" text="残虐" />
+    <string id="PylbJEe5" text="人 #" />
+    <string id="pzfbPbWW" text="巨石" />
+    <string id="Q0qrw7F5" text="增加专精" />
+    <string id="Q2alNolf" text="我的同族{REFERING_HERO.LINK}" />
+    <string id="Q2JYjFQl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}撤退。" />
+    <string id="q2Y2DHiA" text="骑射手" />
+    <string id="Q3hlcBa4" text="部分" />
+    <string id="Q3KrMlLd" text="冲锋！" />
+    <string id="q3mOBLFn" text="选择专精技能" />
+    <string id="Q67Wys0i" text="在{SETTLEMENT_NAME}周围巡逻" />
+    <string id="Q7ONA10T" text="&lt;b&gt;投石器&lt;/b&gt;{NEWLINE}准确度不太行，但是对城墙很有破坏力。" />
+    <string id="Q8mI3b4K" text="没有选择政策" />
+    <string id="QA8Gm9PY" text="今天天气可真热，对吧？打架可太辛苦了。把我们要的交出来，我们就会离开了。" />
+    <string id="qaDIU0XC" text="巴旦尼亚王国" />
+    <string id="qaueUlAp" text="好。在外面当心点儿。满世界都是贼盗，但我们是其中心地最善良的了。[ib:closed][rb:positive]" />
+    <string id="QAv3upYr" text="斗篷" />
+    <string id="qb31gnpr" text="家族领袖加成" />
+    <string id="QBbBahLv" text="我们准许你继续上路。" />
+    <string id="QBPrRdQJ" text="外科医生" />
+    <string id="qC4OsBt1" text="村庄（被围攻的）" />
+    <string id="QdDkviGe" text="级别 V" />
+    <string id="qDSda1OI" text="{DAY} {?DAY_IS_PLURAL}天{?}天{\?}" />
+    <string id="QE1XRyUP" text="+{BONUS_AMOUNT}加成至攻城器械生产速度" />
+    <string id="qe686AAn" text="你是统治者。你将作出最终的决定，并且享有一票否决权。TEMP" />
+    <string id="QeeK2rge" text="你" />
+    <string id="qeKskdiY" text="古典象棋" />
+    <string id="QewGND2m" text="准备" />
+    <string id="QFMshJaj" text="在{SETTLEMENT_NAME}附近集结" />
+    <string id="qfzkMuLj" text="工匠" />
+    <string id="qg0WttZb" text="你需要成为一个王国的一部分" />
+    <string id="Qg5suamT" text="你把{BET_AMOUNT}押在{FIGHTER_NAME}身上但{?FIGHTER_GENDER}她{?}他{\?} 却输了这场战斗。" />
+    <string id="QGaIYQpg" text="鱼" />
+    <string id="qgHblOq4" text="你发现了埋伏。" />
+    <string id="qgL4P2vO" text="这个城镇很繁荣。人们看起来吃的很饱，生活比较舒适。" />
+    <string id="QgUej8DP" text="没有活跃任务" />
+    <string id="qhhLVJAC" text="&lt;b&gt;准备&lt;/b&gt;" />
+    <string id="qIvDX0JR" text="中央" />
+    <string id="Qk6aHGNO" text="按‘Alt’键获取更多信息。" />
+    <string id="QLM6DWHB" text="活跃任务" />
+    <string id="qlw2LWgu" text="进入范围" />
+    <string id="qM8daraD" text="总技能点数：{CURRENT_SKILL_POINTS}" />
+    <string id="QmaVRAkx" text="你没能支付全部工资，你的部队失去{reg1}士气。" />
+    <string id="qMhCpq9k" text="超过部队规模" />
+    <string id="Qn3DCH3d" text="地主" />
+    <string id="QndVFTbx" text="卸下装备" />
+    <string id="qnxJYAs7" text="部队" />
+    <string id="qpmpTdla" text="要人" />
+    <string id="QPoA6vvx" text="收入" />
+    <string id="qQLh6S2w" text="SP {CURRENTAMOUNT}/{TARGETAMOUNT}" />
+    <string id="qR0s1VvE" text="你听到一些关于价格、短缺和贪婪商人的抱怨，但不比平常多。" />
+    <string id="QrfyFfk0" text="按下 &quot;采取敌对行动&quot;" />
+    <string id="qRqnrtdX" text="所有者" />
+    <string id="qsh0I4Rm" text="你的对手掷出了{DICE_ROLL}。" />
+    <string id="qSi4DlT4" text="食物" />
+    <string id="qt7WSK15" text="{SETTLEMENT_NAME}（被掠夺的）" />
+    <string id="QTbZPyha" text="跟随" />
+    <string id="qtII2HbK" text="财富" />
+    <string id="qtmj7h2r" text="  0" />
+    <string id="qUtYks66" text="{ARMY_LEADER.LINK}的军团正在{SETTLEMENT_NAME}附近集结。" />
+    <string id="QVChn4mG" text="食物也是可以交易的商品。使用&quot;杂项&quot; 过滤选项你可以轻松找到可交易的商品。" />
+    <string id="QWqvGa1P" text="牛" />
+    <string id="r312jCKr" text="提出和谈" />
+    <string id="R4eS65oX" text="一些愤怒的村民拿起工具准备反抗你。如果你这样继续下去，看起来会有一场仗要打了。" />
+    <string id="R4Gqskgq" text="胜利" />
+    <string id="R5IOmwN1" text="修建攻城营地" />
+    <string id="R6oKMaZ5" text="{MARRIED_HERO.LINK}和{MARRIED_TO.LINK}结婚了。" />
+    <string id="R7v2UD8b" text="你移动了一枚棋子。" />
+    <string id="R9DiQfax" text="战斗" />
+    <string id="RaAnj4On" text="守方" />
+    <string id="rBieLPA7" text="你已经超出队伍人数限制了。{newline}你将暂时保有你的队伍，但一段时间后他们将很快抛弃你的部队。你的速度也会慢下来。{newline}你确定吗？" />
+    <string id="rbz1Bwbv" text="物品栏" />
+    <string id="rdbw9TVm" text="盾牌 II" />
+    <string id="rDnWQL87" text="显示/隐藏剑鞘" />
+    <string id="REdb7vbQ" text="{RULER.NAME}{?RULER.GENDER}女苏丹{?}苏丹{\?}" />
+    <string id="redwEIlW" text="军需官" />
+    <string id="rFvEZJu7" text="{ITEM_NAME}被添加到{PLAYER.LINK}的物品栏。" />
+    <string id="RGqPxabq" text="权力" />
+    <string id="RiXlbtfl" text="k" />
+    <string id="RiZ9lNAe" text="城墙等级" />
+    <string id="rjf2HVhf" text="&lt;b&gt;投石器&lt;/b&gt;{NEWLINE}TODO BRICOLE DESC." />
+    <string id="RjgBIYvH" text="&lt;b&gt;改良攻城槌&lt;/b&gt;{NEWLINE}用来撞开城门。比普通的更好。" />
+    <string id="RJJ1Pbjk" text="{FACTION}的雇佣兵" />
+    <string id="RKyiu5MH" text="也许你我可以做个交易。" />
+    <string id="rmSkXZlp" text="锦标赛结束了。在最后一回合，{TOURNAMENT_FINAL_OPPONENT}击败了你获得了胜利。" />
+    <string id="RNQIG1DS" text="听见那哨声和嚎叫了吗？那不是风——那是侵犯过我们的亡灵。准备加入他们吧。" />
+    <string id="RO0a71EP" text="对手建立起了对抗你的屏障，但是你们剩下的棋子相同。平局！" />
+    <string id="ROB0VcsI" text="你的勇士赢了决斗。这一胜利鼓舞了你的军团。你的部队获得士气。" />
+    <string id="RpfgdR45" text="大人" />
+    <string id="rPvzZKFk" text="驻军不足" />
+    <string id="rQ5On2GL" text="为家族的每个部队增加额外的部队人数" />
+    <string id="RqnEjYVe" text="+{RECRUIT_AMOUNT}招募{?ISPLURAL}{?} {\?}" />
+    <string id="RTmDiT0l" text="当前部队规模加成" />
+    <string id="rTuptXLg" text="攻方旗帜" />
+    <string id="RU6D7hSR" text="TROOP_NAMES_BEGIN}?IS_PLURAL}和?}\?}TROOP_NAMES_END} ?IS_PLURAL}正在?}正在\?}前进。" />
+    <string id="RUcYGbUH" text="你没有足够的点数。" />
+    <string id="RvDxHQ73" text="价格： " />
+    <string id="RvKwdXWs" text="指挥官" />
+    <string id="RVPidk5a" text="影响力" />
+    <string id="RXhR7nTh" text="按[{KEY_NAME}]执行 x5" />
+    <string id="rxOK6dn1" text="有资格成为封臣" />
+    <string id="rY23b263" text="你的对手移动了一枚棋子。" />
+    <string id="RzjMX0Og" text="很好。你走吧。别忘了多喝热水！" />
+    <string id="rzsRQkXw" text="{CHAR_NAME}有{PERK_NAME}特长。" />
+    <string id="s1NEbhFL" text="队列中" />
+    <string id="S3ymfdwB" text="你做出了更改。想要应用它们吗？" />
+    <string id="s5h0Yarn" text="管理你的军团" />
+    <string id="s6ofDDii" text="路障" />
+    <string id="s9oED1IR" text="散兵" />
+    <string id="sbricRaZ" text="投注收益：{BET}" />
+    <string id="SdcpdfaV" text="嘿——你。你的行囊里有啥？你带着什么呢？" />
+    <string id="SdXS4lxN" text="阵营领袖加成" />
+    <string id="SEBZa2Lh" text="提升凝聚力" />
+    <string id="SeQ0Q7r6" text="进行中事件" />
+    <string id="sfcbd6QS" text="你目前获得了 {CURRENT_PROGRESS}点，总计需要{TARGET_PROGRESS}点才能完成说服。" />
+    <string id="SFddKpPz" text="吝啬" />
+    <string id="sffGeQ1g" text="礼物" />
+    <string id="SFg3xgCM" text="附近" />
+    <string id="sFpNAqHs" text="慈悲" />
+    <string id="Sj9Ux8jS" text="溃败" />
+    <string id="sJLUbnLl" text="总兵力" />
+    <string id="sKnYLPkn" text="国王" />
+    <string id="slKe6Gyc" text="军粮总量" />
+    <string id="SMws1ws6" text="大盾牌" />
+    <string id="SNfvAnuV" text="+{BONUS_AMOUNT}加成至城墙修复速度" />
+    <string id="snxLc1Wq" text="如图所示，每名玩家开始时在棋盘上都有两枚棋子。玩家轮流把剩余棋子放在任何可用方格上，不包括中间方格。" />
+    <string id="snyxby5L" text="返回主菜单" />
+    <string id="SojzHoCa" text="仅限女性" />
+    <string id="spIe8wd8" text="单手长杆武器" />
+    <string id="SrfYbg3x" text="领袖" />
+    <string id="SRYuaoh1" text="这个地区混乱不堪，但人们仍然要处理日常琐事。在大多数情况下，他们不会在市场上逗留太久，也不会进行眼神交流。但你会无意中听到关于农村地区叛军的对话。有些人似乎害怕反叛者，另一些人则暗自感到兴奋，因为形势已经发生了变化，即使只是一小会儿，也对富人和权贵不利。" />
+    <string id="stS5PBIr" text="传教士" />
+    <string id="svArZT0G" text="细节" />
+    <string id="Svem1NiV" text="你的对手被打晕了，你赢了！" />
+    <string id="Svtb9MQv" text="决斗" />
+    <string id="SyklU5aP" text="信息" />
+    <string id="SYm7rgCX" text="{COMPANION.LINK}离开了你的部队。" />
+    <string id="sZLd6VHi" text="库赛特" />
+    <string id="T0aULilA" text="&lt;b&gt;改良撞锤&lt;/b&gt;{NEWLINE}用来撞开城门。比只有梯子强" />
+    <string id="t2baaTrL" text="前岳父或公公" />
+    <string id="T3JJ7aIV" text="以尽可能快的速度在地图上移动。在马上作战有速度加成" />
+    <string id="t3tq0eoW" text="部队" />
+    <string id="T592iYI4" text="你掷出了{DICE_ROLL}。" />
+    <string id="T5VsEnNE" text="人数" />
+    <string id="t5X1TNBq" text="{?IS_GENERAL_SIDE}{?}在{SIDE_STRING}边{\?}使用攻城器械" />
+    <string id="t6DiaDQ3" text="一位贵夫人" />
+    <string id="t6NXmyoF" text="{.a} {STR}" />
+    <string id="t6xdCj43" text="哦。我们当然可以，当然可以了。当然，前提是你的钱包很肥，而且准备让它减减肥。[ib:hip][rb:trivial]" />
+    <string id="t78atYqH" text="双手" />
+    <string id="taaNCsVZ" text="在最后一回合，你击败了{TOURNAMENT_FINAL_OPPONENT}获得了胜利。" />
+    <string id="TCQQRQgI" text="战斗序列" />
+    <string id="tDA5dhn3" text="女皇" />
+    <string id="tDDG7gPa" text="攻方可用士兵数量" />
+    <string id="TDQId8c9" text="你建立起了对抗对手的屏障，而且你剩下的棋子更多。你赢了！" />
+    <string id="tDy1TfDq" text="返回英雄" />
+    <string id="tdYB3Tzc" text="重做" />
+    <string id="tE1VwKTZ" text="飞斧" />
+    <string id="Te4xxzzK" text="第纳尔" />
+    <string id="TeWnL9bh" text="我的丈夫{REFERING_HERO.LINK}" />
+    <string id="TgtdcMGS" text="一只垂死挣扎的苍蝇——我们完全可以搞定..." />
+    <string id="Th42XRQp" text="有可用事件" />
+    <string id="Th8q8wC2" text="战利品" />
+    <string id="thIebQAR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}一马当先。" />
+    <string id="Ti2GeG0U" text="根据选择，该选项将关闭一项随机选项。" />
+    <string id="ti5FwD4t" text="未知部队" />
+    <string id="TlP31w8l" text="投石器" />
+    <string id="tMg5AF19" text="现在不能打开任务界面！" />
+    <string id="TmKbTxQy" text="可敦" />
+    <string id="TNLRC4Gf" text="用单手短武器作战" />
+    <string id="tolOqAaP" text="{YEAR}，夏季{DAY}" />
+    <string id="toQLHG6x" text="勇气" />
+    <string id="tpjGRDHP" text="决斗结束按住 {leave_key} 离开" />
+    <string id="Tqa0r78j" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}实施骚扰战术。" />
+    <string id="tQDbRfMs" text="我们在激战中分散了" />
+    <string id="tqSODeKW" text="你自杀了！" />
+    <string id="trRLa9pi" text="你遇到了{PARTY}。与他们作战的行为，将被视为向{KINGDOM}宣战。" />
+    <string id="Tsn6bCft" text="慷慨" />
+    <string id="TSw4tD02" text="真的吗？那么，我想今天我要弄脏手了。[ib:aggressive][rb:very_negative]" />
+    <string id="TTWL7RLe" text="十字弩" />
+    <string id="Tu46dFyH" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}使用攻城器械。" />
+    <string id="TVcqGJ1r" text="主要英雄被囚禁了！" />
+    <string id="TvmDFK6o" text="{REWARD}" />
+    <string id="TVQXa0y0" text="战斗胜利！" />
+    <string id="Txbga7js" text="你碰上了{ATTACKER}和{DEFENDER}之间的战斗" />
+    <string id="TxeKpK3Y" text="你与{HERO.NAME}的关系提升了{MAGNITUDE}点，达到了{VALUE}点。" />
+    <string id="tXl9REtA" text="{SETTLEMENT_NAME}的民兵" />
+    <string id="Tyc4aAdz" text="不带领任何手下参加战斗。" />
+    <string id="U7er3V9s" text="物品" />
+    <string id="U7Z7f7ZT" text="配偶" />
+    <string id="U8TPlwW9" text="幸会，{PLAYER.LINK}。你所做的事让我感激不尽。我希望有一天我能找到办法来报答你。" />
+    <string id="U8VHRdwF" text="腿甲： " />
+    <string id="ua15BlYh" text="全部重置" />
+    <string id="uAL3bCfN" text="负重{newline}装备的盔甲和武器的重量总和。{newline}高负重会降低你的步行速度" />
+    <string id="UaN2lfwi" text="武器匠" />
+    <string id="Uaw5VF3D" text="你的对手想要放弃。你接受你的胜利吗？如果不接受，你会继续游玩。" />
+    <string id="uB245vWg" text="食物：" />
+    <string id="UB4sqrWx" text="母亲" />
+    <string id="uBxHeyxy" text="勇气：" />
+    <string id="uCikaIoq" text="真棒。你看，我的弟兄们和我，我们不是什么残忍的人。不过有点贪心，这没法抵赖，所以一定要大方一点。[ib:hip][rb:trivial]" />
+    <string id="UckVajhO" text="获得声望：+ {RENOWN}" />
+    <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}" />
+    <string id="Ue3JhJvE" text="额外护甲" />
+    <string id="ufnnUxKb" text="皮革" />
+    <string id="uFuDwaYp" text="{HOUR} {?PLURAL}小时{?}小时{\?}" />
+    <string id="ug4LiPbb" text="远程武器 IV" />
+    <string id="ugJfuabA" text="骑射手" />
+    <string id="uGM8DWrm" text="坐骑" />
+    <string id="UgMbCUMO" text="我的父亲{REFERING_HERO.LINK}" />
+    <string id="ugX2RRDY" text="我被抓走并被勒索赎金" />
+    <string id="Uh057UUb" text="普鲁克" />
+    <string id="UI0q8rWw" text="牲畜" />
+    <string id="uinDitbl" text="我们必须攻破城墙。" />
+    <string id="UIqPXN62" text="使用投掷武器攻击敌人。" />
+    <string id="UjL7jVYF" text="士气" />
+    <string id="ULawYXl6" text="前岳母或婆婆" />
+    <string id="um1Z5swc" text="{REFERING_HERO.LINK}女士" />
+    <string id="Umb8XsZH" text="穿透" />
+    <string id="uN5gwV05" text="已故" />
+    <string id="un7poy9x" text="预览" />
+    <string id="uOqdr7FM" text="祝贺你！你战胜了你的对手！" />
+    <string id="uOqfaqbk" text="{PARTY_LIST_TAG}({COUNT} / {MAX_COUNT})" />
+    <string id="UOr4UP47" text="非常谨慎" />
+    <string id="UP6yVQ7b" text="的支持者" />
+    <string id="UqdZmdcf" text="战马" />
+    <string id="ur8kO8iM" text="游戏提示" />
+    <string id="Uu0wzNj3" text="家族级别：{TIER} " />
+    <string id="uUlO8l6M" text="听说你和一些为{COMMON_AREA_OWNER}工作的人打架了。这不关我的事。" />
+    <string id="uuwm0Kga" text="门" />
+    <string id="uvIL0tP9" text="可见范围" />
+    <string id="uvjOVy5P" text="死亡" />
+    <string id="uWEUYE1m" text="你可以通过点击它的按钮来选择一个可用的额外特长。" />
+    <string id="uwPByaQg" text="开始攻击" />
+    <string id="UX7reJ3K" text="我们必须赶快保卫我们的攻城器械，以免被敌人摧毁。" />
+    <string id="UxacCAuS" text="你的一些士兵现在有足够的经验值升级了。{newline}{newline}部队界面按钮上方会出现一个小提示。{newline}{newline}点击这个按钮查看并升级你的士兵。" />
+    <string id="UxAl9iyi" text="个人" />
+    <string id="UxD6lPXa" text="你获得{INFLUENCE}影响力。新的影响力为{NEW_INFLUENCE}。" />
+    <string id="UxyIkWah" text="雇佣兵不能吞并定居点。" />
+    <string id="uYFd4meY" text="任务来自" />
+    <string id="V03gbccF" text="你击中了友军！" />
+    <string id="V0Kw3O7c" text="教程" />
+    <string id="V0OMMQ1F" text="了不起的表现，{PLAYER.LINK}。打！砸！你打倒了{OPPONENT_COUNT}位对手。观众非常开心。你获得了{PRIZE}{GOLD_ICON}的奖励。" />
+    <string id="V1FKcYyi" text="{SETTLEMENT_NAME}（已劫掠）" />
+    <string id="v3cY44N1" text="你不能吞并统治家族的定居点。" />
+    <string id="v5bJd6mZ" text="+{BONUS_AMOUNT}加成至繁荣度变化" />
+    <string id="V7ESaOJU" text="选择你的旗帜" />
+    <string id="v7HPTy2y" text="有一支强大的军团听你号令，你可以征服敌人的城堡或城市。这看起来是个很好的围攻目标。" />
+    <string id="Vap6ahft" text="伙计们！{BEHAVIOUR_NAME_BEGIN}！" />
+    <string id="VbeHEAsa" text="撤退" />
+    <string id="VbL6GFmy" text="黄油" />
+    <string id="Vc9Mx6Jb" text="任务" />
+    <string id="vdEoBkpr" text="你必须随时保持食物供应。如果你的食物消耗光了，你的部队就会开始丧失士气。你的士兵可能会因为士气低落而弃你而去。{newline}{newline}你可以在信息栏中看到你的食物储备。鼠标悬停在上边查看你的部队每天消耗多少食物。既然你的部队需要食物，现在就去市场买一些吧。" />
+    <string id="vdK5SaJN" text="嗯。遗憾。[ib:aggressive][rb:very_negative]" />
+    <string id="vdKLq8T5" text="城墙{newline}等级{LEVEL}" />
+    <string id="VeOqrmx5" text="{LEFT}{FOCUS_ICON}{RIGHT}" />
+    <string id="VeqwXwYc" text="敌人正在逃离。你赢了战斗。" />
+    <string id="vgXYtMrj" text="战斗幸存者" />
+    <string id="vhq22OyK" text="繁荣度" />
+    <string id="VI4gQt8Q" text="锤" />
+    <string id="Vi6ojGrk" text="{FACTION_1_NAME} vs {FACTION_2_NAME}" />
+    <string id="vIpFgbU6" text="轻甲" />
+    <string id="ViYdZUbQ" text="解散军团" />
+    <string id="vJmBi58H" text="元帅" />
+    <string id="VJNJsdif" text="{COMPANION.LINK}加入了你的部队。" />
+    <string id="vJOWy1QF" text="库赛特" />
+    <string id="vLU6nNwp" text="你把{BET_AMOUNT}押在{FIGHTER_NAME}身上而且{?FIGHTER_GENDER}她{?}他{\?} 赢了这场战斗。这是你的奖励{REWARD_AMOUNT}{GOLD_ICON}。" />
+    <string id="vmMqs3Ck" text="贵族" />
+    <string id="vn7A8aXV" text="你在{SETTLEMENT_NAME}外。你的旗帜飘扬在城堡的大门上。" />
+    <string id="vnmy8Bjl" text="总费用 " />
+    <string id="vo867CHX" text="去年完成的任务" />
+    <string id="vOgACpuD" text="同伴" />
+    <string id="VoZBLWay" text="{RULER.NAME}{?RULER.GENDER}可敦{?}可汗{\?}" />
+    <string id="VpCa9ATa" text="好吧。你死定了。[if:idle_furious][ib:aggressive][rb:very_negative]" />
+    <string id="VpKIzJxz" text="你好呀，旅行者。我们刚刚从天而降到这个地方，希望能在掠夺的时候碰碰运气，这不是刚好碰到你了吗？" />
+    <string id="vpx7Pa7v" text="出价" />
+    <string id="VPYazFVH" text="穿刺速度： " />
+    <string id="VqpmXU1m" text="用弩射击敌人" />
+    <string id="VRdy76RQ" text="遭遇战" />
+    <string id="VSZGbSEO" text="没有匹配物品" />
+    <string id="vt1IbBFt" text="你发现了敌军。要小心。" />
+    <string id="vvabqi2w" text="商队" />
+    <string id="Vvo92lyj" text="南部帝国的" />
+    <string id="VvpPbvpm" text="你可以召唤其他领主到你的旗帜下。点击右下角高亮显示的军团图标进行此操作。" />
+    <string id="vvXTnr8i" text="踢出家族" />
+    <string id="vw1bbcww" text="在盟军{TARGET_FORMATION}背后作战" />
+    <string id="Vw7BUXvw" text="优厚" />
+    <string id="VWahbQGh" text="我的朋友{REFERING_HERO.LINK}" />
+    <string id="VWQbVKT4" text="解散部队" />
+    <string id="vXzJJtYq" text="我们的计划是进入射程，向他们射箭。" />
+    <string id="vy8jlHl4" text="h" />
+    <string id="VyJMWO8a" text="移除{GOLD_AMOUNT}{GOLD_ICON}。" />
+    <string id="VyPwh1CT" text="接受英雄入队" />
+    <string id="vZaL7fqv" text="+{BONUS_AMOUNT}加成至士气" />
+    <string id="vZzDCjDr" text="目前这个镇上没有人愿意被雇用。" />
+    <string id="W1seGc3t" text="箭筒" />
+    <string id="w2j9LGvZ" text="目标规模" />
+    <string id="W2WXkiAh" text="赎金经纪人" />
+    <string id="w3v2S03V" text="你与 {HERO_NAME}的关系将会 &lt;a style=&quot;IncreaseStyle&quot; &gt;&lt;b&gt;提升&lt;/b&gt;&lt;/a&gt;" />
+    <string id="W4iKIM2s" text="小盾牌" />
+    <string id="W5gPypVY" text="使用铁匠铺来锻造武器、精炼原材料及熔炼多余的武器。" />
+    <string id="w758X31N" text="道具" />
+    <string id="w9C43LhX" text="你想下达{DECISION_NAME}决定吗？" />
+    <string id="WBupKtnu" text="‎你可以在顶栏中看到重要NPC的头像。{newline}{newline}单击头像并从菜单中选择交谈。" />
+    <string id="wdsJRYRn" text="你来得正是时候，{PLAYER.LINK}。我不会忘记你的帮助。" />
+    <string id="Wg2P3acK" text="火焰弩炮" />
+    <string id="WharCvcX" text="我们必须守住城墙，不让敌人进入。" />
+    <string id="WHED64rw" text="一段时间后将有一支新队伍到达这里。" />
+    <string id="WhuufgY5" text="要人关系" />
+    <string id="wib91252" text="职业：{PROFESSION}" />
+    <string id="WiNRdfsm" text="完成" />
+    <string id="wjb4tZDX" text="等级：{LEVEL}" />
+    <string id="wJn42hTq" text="影响驻军的天赋" />
+    <string id="wjuieMsE" text="你的对手击中获得1分！" />
+    <string id="wKbafI9r" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}攻城塔上射击。" />
+    <string id="wKgpciSx" text="{AMOUNT}{INFLUENCE_ICON}" />
+    <string id="wNjhpOOM" text="应用更改" />
+    <string id="WqBAgeCy" text="岳母" />
+    <string id="wrbea2oa" text="弩箭" />
+    <string id="wshehbFu" text="雇佣兵不能解散军团。" />
+    <string id="WSk5Sibs" text="奶酪" />
+    <string id="WSoZkkqD" text="狱卒" />
+    <string id="wtDdqXGW" text="好，我很高兴，你对于我们古老而神圣的特权表示尊重。" />
+    <string id="WTR5Lr8W" text="防守方能将国王移动到棋盘的任意边缘时，就取得了胜利。{newline}攻击者俘虏国王或者能阻止所有防守方移动时，就取得了胜利。" />
+    <string id="wTT3Fyzl" text="先生" />
+    <string id="WusvipsF" text="资金不足！" />
+    <string id="WVAUoXMY" text="{CURRENT_XP} / {LEVEL_MAX_XP} 经验值" />
+    <string id="WvKKats6" text="追踪定居点。" />
+    <string id="WVqaRKUm" text="羊毛" />
+    <string id="wWwoTzpG" text="兄弟" />
+    <string id="wx6DZJ0W" text="+{BONUS_AMOUNT}加成至城墙生命值" />
+    <string id="wXNYoJqw" text="Esc菜单" />
+    <string id="wXQUXa1P" text="你不能再给这个技能投入专精点数" />
+    <string id="wXwZ778J" text="士兵" />
+    <string id="WYfjyuHj" text="那好吧...这一趟可是出远门，你最好认真翻翻你的钱包。" />
+    <string id="WzcY3WMe" text="重置镜头" />
+    <string id="wZnsFoQ6" text="我想我们还没好好结识过，我的朋友。你刚救了我的命，而我还不知道你的名字……" />
+    <string id="X1tny9v2" text="成功掠夺" />
+    <string id="x2mSJAVa" text="如果对手只有一枚棋子或者没有棋子，玩家就胜利了。{newline}{newline}另一种获胜方式是建起以到屏障，把对方的所有棋子都挡在一边。在屏障建立起来之后，剩余棋子最多的玩家获胜。" />
+    <string id="XAbeeOQo" text="你可以通过掠夺敌人的村庄来削弱他们。这看起来是个很好的掠夺目标。" />
+    <string id="XaFXqGhz" text="弹丸" />
+    <string id="xaHELVnx" text="攻城塔（等级1）" />
+    <string id="XbdX2AHF" text="士兵" />
+    <string id="xbh6Bmhf" text="当前王国内的支持度" />
+    <string id="XBIPqxA2" text="空" />
+    <string id="xCaFvB69" text="级别 II" />
+    <string id="xD9xlbXt" text="王子" />
+    <string id="xEWwbGVK" text="精度： " />
+    <string id="xGjug9Sd" text="！" />
+    <string id="xgO3cCgR" text="负担过重" />
+    <string id="xgwjHi1p" text="否认" />
+    <string id="xHc1xhG8" text="消灭城堡内的敌人。" />
+    <string id="XJ6EG3Pa" text="+{BONUS_AMOUNT}加成至食物库存" />
+    <string id="xKa6TwEX" text="待在{SETTLEMENT_NAME}" />
+    <string id="xMwyMGtc" text="前表兄弟" />
+    <string id="XnsAbUE3" text="解散" />
+    <string id="xo2zvOir" text="你的对手不能进行任何移动。跳过回合。" />
+    <string id="xORASoex" text="你可以点击 &quot;+&quot; 按钮来增加10点凝聚力。要注意的是，提升凝聚力需要消耗影响力。" />
+    <string id="xq62HAIO" text="保护友军{TARGET_FORMATION}的{?IS_GENERAL_SIDE}{?} {SIDE_STRING}{\?}翼" />
+    <string id="xqN16a4k" text="棋盘游戏" />
+    <string id="XqV3x4i3" text="根据选择，该选项将推进说服到下一阶段。" />
+    <string id="xs0MpdCM" text="锻造" />
+    <string id="XseYJYka" text="管理" />
+    <string id="xsIU28Za" text="太棒了！不用再睡在又冷又硬的石头上，不用再吃瘦得只有骨头的松鼠了。" />
+    <string id="xSjgt7fs" text="{YEAR}，春季{DAY}" />
+    <string id="xSKFr3Rs" text="等待" />
+    <string id="xsu6bPTv" text="亚麻" />
+    <string id="xT8955dO" text="平民装扮" />
+    <string id="XTubeiTb" text="盾牌 III" />
+    <string id="Xv6knZP8" text="-{PRISONERS_AMOUNT}俘虏{?ISPLURAL}{?} {\?}" />
+    <string id="xv8T0Il8" text="先手方和你每回合可以移动的方格数量是由投掷四根双色棍决定的。" />
+    <string id="xwWUDia6" text="赌注" />
+    <string id="Xx9EbSwG" text="靴子" />
+    <string id="XxLCJb0W" text="诚实的" />
+    <string id="xycMiCIq" text="我最近还没有发现什么有利可图的交易。" />
+    <string id="xZxbFuDI" text="那么，今晚胡狼们可有一顿大餐了。" />
+    <string id="Y0GDVFiN" text="抢劫过的村庄" />
+    <string id="y0MmmV8C" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}投射队伍周围构建防御圈。" />
+    <string id="y1uH6Og1" text="马匹装备 IV" />
+    <string id="y3OKIfj0" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END}{?IS_PLURAL}正在{?}正在{\?}步兵掩护下射击。" />
+    <string id="Y3Ylqjr2" text="小阵营角色" />
+    <string id="Y4fht2kI" text="要人角色" />
+    <string id="y4MiEr0H" text="队伍种类" />
+    <string id="Y5byltUT" text="苏丹" />
+    <string id="y8Catvvn" text="远程武器 III" />
+    <string id="Y94H6XnK" text="接受" />
+    <string id="Y9egTJg0" text="每日变化" />
+    <string id="yaxwYglT" text="已派遣" />
+    <string id="YbabzW3H" text="你在{SETTLEMENT_NAME}的监狱里待了{NUMBER_OF_DAYS} {?PLURAL}天{?}天{\?}。" />
+    <string id="YbB2IpTR" text="你与{HERO.NAME}的关系降低了{MAGNITUDE}点，现在是{VALUE}点。" />
+    <string id="yBnwGiuB" text="领主" />
+    <string id="Ybvu10zM" text="围攻" />
+    <string id="yCEMiKjB" text="选择你的{SELECTION}" />
+    <string id="YCYwPPlJ" text="禁用全部教程" />
+    <string id="YDYnuBmC" text="多人游戏" />
+    <string id="yeEaBV29" text="我们拿走。饶你一命。趁我没改主意，快滚。[ib:closed][rb:positive]" />
+    <string id="yenZGMzi" text="快进" />
+    <string id="YevUiidU" text="你与{CLAN_LEADER}的关系降低了{MAGNITUDE}点，现在是{VALUE}点。" />
+    <string id="Yf6bHCeW" text="{SETTLEMENT_NAME} （关税）" />
+    <string id="yfa7tpbK" text="全部" />
+    <string id="yFl9N7wz" text="拿取" />
+    <string id="yfNAkFgF" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}形成小规模战线。" />
+    <string id="yG3YUySN" text="西部帝国" />
+    <string id="ygY1oKQD" text="我们听你号令，{?PLAYER.GENDER}夫人{?}先生{\?}。向我们指明目标，剩下的请交给我们。[rb:very_positive]" />
+    <string id="YhLweMrP" text="盔甲" />
+    <string id="YifFZaG7" text="部队所有者" />
+    <string id="Yj0cQVLH" text="冲锋！" />
+    <string id="YJaNtktT" text="全部招募" />
+    <string id="yjXoftYs" text="最后一次出现是在{?IS_TODAY}今天{?}{DAY_VALUE}之前{\?}{?IS_IN_SETTLEMENT}在{?}靠近{\?}{SETTLEMENT}。" />
+    <string id="YK3nXtoM" text="朋友" />
+    <string id="YkagFP1z" text="我的母亲{REFERING_HERO.LINK}" />
+    <string id="ykZLXKH3" text="声望：{RENOWN}" />
+    <string id="ylQJwqKH" text="你要扔下辛苦得来的战利品了！你确定吗？" />
+    <string id="YNPYmO4g" text="{DAY_PREPARATION_TIME} {?PLURAL_DAYS}天{?}天{\?} {HOUR_PREPARATION_TIME} {?PLURAL_HOURS}小时{?}小时{\?}" />
+    <string id="YO0x7ZAo" text="忠诚度" />
+    <string id="yOJAiSf4" text="无阵型" />
+    <string id="YOSEIvyf" text="操作： " />
+    <string id="yQiDdDPY" text="轻骑兵" />
+    <string id="yQTBY9ie" text="珠宝" />
+    <string id="yrlPHYpa" text="选择天赋升级" />
+    <string id="yRTV90eN" text="你需要选择一个结果。" />
+    <string id="yrUo2ZRD" text="部队没有另一支队伍的空间" />
+    <string id="yrvH6Oa1" text="在起始位置等待！" />
+    <string id="ySlVPZyF" text="当你试图强行向村庄长老拉壮丁时，一些村民组织起来对你进行抵抗。与他们作战的行为，将被视为向{KINGDOM}宣战。" />
+    <string id="YSM0lxns" text="花费" />
+    <string id="ytlsMCCn" text="{DESERTER_COUNT}{?PLURAL}队伍{?}队伍{\?}背弃了{PARTY}。" />
+    <string id="ytYPOCZ8" text="已完成{NUMBER}%" />
+    <string id="YukbQgHJ" text="投射物速度： " />
+    <string id="yUo269Us" text="谢谢你的帮助，陌生人。我们还没来得及正式介绍一下，是吧？你叫什么名字？" />
+    <string id="YVGtcLHF" text="骑兵" />
+    <string id="YvwQL9aa" text="重量： " />
+    <string id="YxKHEUEX" text="锦标赛结束了。在最后一回合，{TOURNAMENT_FINAL_PARTICIPANT_A}击败了{TOURNAMENT_FINAL_PARTICIPANT_B}获得了胜利。你在第{TOURNAMENT_ELIMINATED_ROUND}回合出局。" />
+    <string id="YYdPfXEP" text="古典象棋是进攻方（黑方）对防守方（白方）的游戏。{newline}进攻方的数量远超防守方，但是防守方并不一定要靠俘虏来取胜。他们的主要目标是保护国王（中央棋子）。{newline}国王和其他棋子一样遵循相同的移动和俘虏规则。" />
+    <string id="YYvzM5Dh" text="全部放弃" />
+    <string id="yzIOcJoK" text="如果对手被阻挡并且无法进行任何移动，则该玩家获胜。" />
+    <string id="yZzlItBW" text="这个部队" />
+    <string id="z0c2pDhZ" text="和平" />
+    <string id="z3AvJZMt" text="可以以这个价格购买{SETTLEMENT_NAME}：{BUY_PRICE}" />
+    <string id="Z3yCe1HS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL}和{?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}正在{?}正在{\?}重整部队。" />
+    <string id="Z5kGFH7k" text="pc." />
+    <string id="Z5RlxyPJ" text="你被{PARTY_NAME}关押了{NUMBER_OF_DAYS} {?PLURAL}天{?}天{\?}。" />
+    <string id="Z6sDPstD" text="村庄农场" />
+    <string id="z716wRaB" text="你不能解散民兵部队。" />
+    <string id="z7vSaa7L" text="村庄产量" />
+    <string id="Z7zWkAV8" text="你可以把你的俘虏卖给赎金掮客。{newline}{newline}你可以在酒馆区找到他。" />
+    <string id="ZaoZKcx9" text="镇民" />
+    <string id="ZaseErqk" text="不能撤退，附近有敌人！" />
+    <string id="zb9fiIP6" text="你可以选择建造攻城器械，使用方形的制作远程器械，圆形的制作撞锤和攻城塔。" />
+    <string id="ZbsGBv10" text="猪" />
+    <string id="zCQaPTOK" text="雇佣兵" />
+    <string id="ZdeswYbM" text="商人没有足够的钱！你确定吗？" />
+    <string id="zDHbQtm9" text="你死于一匹脱缰的马！" />
+    <string id="ZdqbU2gw" text="同意" />
+    <string id="zEbvDH7V" text="你不能支持自己的家族。" />
+    <string id="zeGAw2IE" text="死于" />
+    <string id="ZEzxHLaH" text="不能招募俘虏英雄" />
+    <string id="zfCoeglY" text="音乐家" />
+    <string id="zg0q1aqD" text="你不能解散驻军部队。" />
+    <string id="Zg5Zmgui" text="我们要从{TOWN}上的市场返回我们的村庄。" />
+    <string id="zgRwrWSC" text="支付比例" />
+    <string id="ZhiB1EOM" text="在{SETTLEMENT_NAME}的俘虏" />
+    <string id="ZlJIpfWg" text="速度加成：{SPEED_BONUS}%。" />
+    <string id="ZMdOAbTd" text="攻方部队" />
+    <string id="zMMqgxb1" text="类型" />
+    <string id="ZMmuaC7a" text="&lt;b&gt;投石车&lt;/b&gt;{NEWLINE}TODO FIRE CATAPULT DESC." />
+    <string id="zN9iNaIW" text="掠夺村庄" />
+    <string id="zNekjGmR" text="招募俘虏" />
+    <string id="zNEvBr6R" text="你的回合" />
+    <string id="zNHtgL0S" text="这次锦标赛将是一场射箭比赛。" />
+    <string id="znKxunbQ" text="下一个角色" />
+    <string id="znxbib0f" text="显示此用法的统计信息" />
+    <string id="zo5hQfll" text="如果狼能从棋盘上移除5只羊，他们就赢了。{newline}{newline}如果羊能阻挡狼，让他们无法继续移动，羊就赢了。 " />
+    <string id="zpaLDTI4" text="付钱，你就可以过去了。" />
+    <string id="ZPaw3WuO" text="瓦兰迪亚人是来自西方的冒险者的后代，建立独立王国前在帝国统治下生活了几个世纪。随着皇权的衰落，他们已经演变成了一个有组织的封建社会，由一群喜欢骑在马背上用长矛和长矛作战的好战贵族领导。" />
+    <string id="zqihwKAs" text="&lt;b&gt;弩炮&lt;/b&gt;{NEWLINE}以致命的效率发射弩箭。对抗骑兵很有效" />
+    <string id="ZqWOb1jM" text="你在{SETTLEMENT_NAME}镇外。你不能进入，因为你被{FACTION_TERM}通缉了。" />
+    <string id="ZR2bAa1p" text="轻骑兵" />
+    <string id="ZuLa12aT" text="这就对了...我们就是那种你惹不起的混蛋。" />
+    <string id="Zuq5mO5e" text="与部队领袖交谈" />
+    <string id="ZuRzP6kF" text="你不能在战斗中集结军队" />
+    <string id="ZV7bt7Il" text="{newline}{PARTY_NAME} : {PARTY_MORALE}" />
+    <string id="ZvoyX6DX" text="巴旦尼亚" />
+    <string id="Zw60OTJe" text="尽管你听到一些关于物价上涨、财富分配不均以及农村移民的抱怨，但大多数人还是满意的。" />
+    <string id="zwAjXuEk" text="{TRAIT_NAME} ({TRAIT} {TRAIT_VALUE})" />
+    <string id="Zwb65ufG" text="粘土" />
+    <string id="zWoj91XY" text="羊狼棋" />
+    <string id="ZwyPnboN" text="+{BONUS_AMOUNT}加成至定居点士气" />
+    <string id="zX4C3332" text="那么，你准备受死吧。做好准备。" />
+    <string id="ZxcnmaXi" text="你已经到达了{SETTLEMENT}，可以开始袭击。你没有遇到任何阻力。袭击这个村庄的行为，将被视为向{KINGDOM}宣战。" />
+    <string id="ZXXNrvvg" text="如果对手手上或棋盘上没有可用的棋子，玩家就赢了。" />
+    <string id="zyp2VGt4" text="有可用任务" />
+    <string id="zzUk6ZaA" text="离开" />
+  </strings>
+</base>

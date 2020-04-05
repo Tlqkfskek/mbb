@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="2ZarUUbw" text="{KILLERPLAYERNAME}杀死了{KILLEDPLAYERNAME}！" />
+    <string id="9CnRKZOb" text="{KILLEDPLAYERNAME}已死亡！" />
+    <string id="NqarFr4P" text="选项" />
+    <string id="ODQmOrIw" text="贡献者名单" />
+    <string id="xsC8Ierj" text="（{BATTLE_COMBATANT}）" />
+    <string id="YbpzLHzk" text="退出游戏" />
+    <string id="YDYnuBmC" text="多人游戏" />
+  </strings>
+</base>

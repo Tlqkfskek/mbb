@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="0W4dgUho" text="你被禁止进入游戏，直到{BANNEDUNTIL}，理由：{BANREASON}" />
+    <string id="2xOyWxIo" text="玩家不是队伍成员。" />
+    <string id="4XDu4Qcd" text="只有队长可以从队伍里踢出玩家。" />
+    <string id="5kgkZo2o" text="你要踢出的玩家不在你的队伍里！" />
+    <string id="91cJB1tP" text="玩家{INVITEDPLAYER}已经在队伍里了。" />
+    <string id="aFQa3pQt" text="你必须在大厅里提升另外一个玩家为队长。" />
+    <string id="ah4Pm8wU" text="你必须在大厅里解散你的队伍！[临时的]" />
+    <string id="bcdU2DHW" text="玩家{INVITEE}被玩家{INVITER}邀请加入到你的队伍。" />
+    <string id="bivF3RXY" text="你不能提升你自己" />
+    <string id="BwBR7TJB" text="你的队伍没人了，队伍自行解散。" />
+    <string id="caMylVF7" text="无法组队进入战斗，请选择你希望游玩的游戏模式。" />
+    <string id="E2ILp86t" text="无法组队进入战斗，请选择可用的地区。" />
+    <string id="efpifbtd" text="你必须在大厅才能邀请玩家到你的队伍！" />
+    <string id="emx7txM9" text="队员的提升操作只有队长才能执行。" />
+    <string id="fD2SyeA7" text="你不能邀请你自己到队伍里。" />
+    <string id="GZXVxl3E" text="{PLAYERNAME}离线了。你队伍的邀请不再有效。" />
+    <string id="i5ZTTTZw" text="玩家{INVITEDPLAYER}不在大厅。" />
+    <string id="jP2hUg7H" text="你不在某个队伍里！" />
+    <string id="kY2oXMng" text="登录失败。" />
+    <string id="l6a9vI9z" text="只有队长才能邀请其他玩家。" />
+    <string id="mcAG0eHJ" text="你必须在大厅里才能从你的队伍里踢出某个玩家！[临时的]" />
+    <string id="MepGBJMQ" text="无法找到你要提升的玩家" />
+    <string id="mvQKpHXH" text="你的队伍满员了。" />
+    <string id="nJ7aEkRt" text="你被{PLAYERNAME}邀请加入队伍。" />
+    <string id="nw7r2S5z" text="已禁用的游戏模式：{GAMETYPES}。" />
+    <string id="OByu0fjQ" text="无法组队进入战斗，因为你队伍里的玩家没有都准备好。" />
+    <string id="olLwOWf8" text="无法组队进入战斗，因为你队伍里的玩家没有都启用反作弊。" />
+    <string id="p5K0ATtZ" text="你的旧会话清除失败。" />
+    <string id="pehfmZvM" text="玩家{PLAYERNAME}被提升为队长了。" />
+    <string id="Pn13ZKwI" text="你的队伍被解散了！" />
+    <string id="Rj8RhD7F" text="失败" />
+    <string id="Tauk2JzA" text="版本不匹配，服务器版本：{SERVERVERSION} - 你的版本：{CLIENTVERSION}。" />
+    <string id="TpBDiSBp" text="{PLAYERNAME}被指派为队长。" />
+    <string id="VDDm5bqb" text="你只能邀请那些开启了游戏反作弊的玩家。" />
+    <string id="w8WiqZT3" text="你必须开启游戏反作弊，才能加入或者创建一支队伍！" />
+    <string id="wNubP2BF" text="只有队长才能为游戏组队。" />
+    <string id="xMa4QqvL" text="队伍里的玩家数：{PLAYERS}人" />
+    <string id="ysfEQO6c" text="找不到玩家。" />
+    <string id="zyDyPr4I" text="你要提升的玩家不在你的队伍里。" />
+  </strings>
+</base>

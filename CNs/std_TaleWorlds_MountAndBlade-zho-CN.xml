@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="0xC75dN6" text="敌方部队" />
+    <string id="1cnJtNTt" text="({KEY}) 拉" />
+    <string id="1CPdu9K0" text="石头" />
+    <string id="3PP01vFv" text="远离那个武器。" />
+    <string id="4FVIuqsl" text="{ALIVE}/{TOTAL}" />
+    <string id="4Skg9QhO" text="抛石机" />
+    <string id="5oozsaIb" text="({KEY}) 打开" />
+    <string id="5wx4BF5h" text="({KEY}) 旋转" />
+    <string id="5zGsfiMM" text="{TRAINING_TYPE}" />
+    <string id="6wZUG0ev" text="大门" />
+    <string id="abbALYlp" text="弩炮" />
+    <string id="aXjlMBiE" text="攻城塔" />
+    <string id="bNYm3K6b" text="({KEY}) 拾起" />
+    <string id="bWi4aMO9" text="箭筒" />
+    <string id="F9AQxCax" text="叉" />
+    <string id="fEQAPJ2e" text="({KEY}) 使用" />
+    <string id="G0AWk1rX" text="梯子" />
+    <string id="gqQPSAQZ" text="({KEY}) 离开" />
+    <string id="hOSafKZ9" text="新的一局{GAME_TYPE}游戏将在{SCENE_NAME}开始" />
+    <string id="hvQSOi79" text="机器人" />
+    <string id="ibC4xPoo" text="({KEY}) 装填弹药" />
+    <string id="jfcceEoE" text="{PILE_TYPE} 堆" />
+    <string id="kbNcm68J" text="({KEY}) 举起" />
+    <string id="L91XKoMD" text="{TEAM_LEADER}：{PLAYER_NAME}，{BEHAVIOR}" />
+    <string id="lVfmVHbz" text="登录失败" />
+    <string id="MaBSSg7I" text="攻城槌" />
+    <string id="MdQJxiGz" text="({KEY}) 推" />
+    <string id="Na81xuXn" text="({KEY}) 再装填" />
+    <string id="NbpcDXtJ" text="投石车" />
+    <string id="pgw7LMRo" text="服务器过载。" />
+    <string id="PNg2Rb4p" text="{PEER_NAME}将被踢出{IS_BANNED}" />
+    <string id="pzfbPbWW" text="巨石" />
+    <string id="rwZAZSvX" text="({KEY}) 移动" />
+    <string id="sSJSTe5p" text="玩家部队" />
+    <string id="TJj71hPO" text="({KEY}) 关闭" />
+    <string id="wY1qP2qj" text="({KEY}) 选择" />
+  </strings>
+</base>

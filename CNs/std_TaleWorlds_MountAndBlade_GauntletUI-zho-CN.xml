@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="074YAjOk" text="你因为挂机被踢出" />
+    <string id="2SEofGth" text="更换队伍" />
+    <string id="4mMySbxI" text="未指定错误" />
+    <string id="a0IHtkoa" text="你被踢出服务器" />
+    <string id="AbEh2y8o" text="保存并退出" />
+    <string id="aKjpbRP5" text="未知原因" />
+    <string id="bV75iwKa" text="保存" />
+    <string id="e0KdfaNe" text="保存为" />
+    <string id="EzeFJo65" text="与服务器连接中断！" />
+    <string id="hvaDkG4w" text="按任意键。" />
+    <string id="InGwtrWt" text="退出" />
+    <string id="ivKntfNA" text="已请求加入，请等待服务器响应" />
+    <string id="IzJ7f5SQ" text="服务器已满" />
+    <string id="JluTW3Qw" text="游戏已结束" />
+    <string id="JQVixeQs" text="无法进入服务器" />
+    <string id="KRNdlbkq" text="自定义游戏即将结束" />
+    <string id="Mm1Kb1bS" text="密码错误" />
+    <string id="mO9bh5sy" text="无法加入自定义游戏" />
+    <string id="n4UUrd1p" text="已在使用中" />
+    <string id="NqarFr4P" text="选项" />
+    <string id="OhF7NqSb" text="你被投票禁止进入服务器" />
+    <string id="RamV6yLM" text="退出到主菜单" />
+    <string id="RGzyUTzm" text="阵型布置正在切换到{ARRANGEMENT_ORDER}" />
+    <string id="srAJw3Tg" text="玩家被服务器封禁" />
+    <string id="T8IniCKU" text="游戏服务器不可用" />
+    <string id="tKSxGy5p" text="服务器无响应" />
+    <string id="vkpMgobZ" text="游戏服务器错误" />
+    <string id="wbFB3N72" text="你被投票踢出服务器" />
+    <string id="wLpJEkKY" text="对战服务器崩溃" />
+    <string id="WvGviFgt" text="与服务器连接超时" />
+    <string id="XnsAbUE3" text="撤销" />
+    <string id="XzZFhRwr" text="返回该游戏" />
+  </strings>
+</base>
